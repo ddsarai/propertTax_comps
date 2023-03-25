@@ -32,7 +32,7 @@ for file in on_files:
         val = file.attrs.get('href')
         on_ptax_data[key] = val
 
-os.chdir('/data/ON_Ptax/')
+os.chdir('data/ON_Ptax/')
 files=os.listdir()
 
 download = []
