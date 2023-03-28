@@ -5,7 +5,7 @@ This program checks to see if any new property tax data germane to the project h
 It then downloads any excel spreadsheet that are not included in the project data directory
 '''
 
-# Note: Need to add Alberta + cleanup refactor code
+# Note:  need to cleanup/refactor code
 
 import requests
 from bs4 import BeautifulSoup as bs
@@ -18,6 +18,8 @@ headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gec
 ON_url = 'https://efis.fma.csc.gov.on.ca/fir/index.php/en/open-data/fir-by-schedule-and-year/'
 BC_url = 'https://www2.gov.bc.ca/gov/content/governments/local-governments/facts-framework/statistics/tax-rates-tax-burden'
 AB_url = 'https://open.alberta.ca/opendata/municipal-financial-and-statistical-data'
+
+
 
 ON_soup = bs(requests.get(ON_url, headers).content, 'html.parser')
 
@@ -78,9 +80,41 @@ for key in bc_ptax_data:
 for url in download:
     file_name = url.split('/')[-1]
     url = 'https://www2.gov.bc.ca/' + url
-    print(url)
     response = requests.get(url,headers=headers, stream=True)
     with open(file_name, 'wb') as f:
         f.write(response.content)
 
 # Add Alberta
+AB_soup = bs(requests.get(AB_url, headers=headers).content, 'html.parser')
+ab_files = AB_soup.find_all('a', {'class':'heading'})
+
+ab_ptax_data={}
+for file in ab_files:
+    href = file.attrs.get('href')
+    if (href[-3:] == 'lsx') & (href[-19] != 'f'):
+        key = href[-19:-5]
+        val = href[-19:]
+        ab_ptax_data[key] = val
+    elif href[-19] == 'f':
+        key = href[-24:-5]
+        val = href[-24:]
+        ab_ptax_data[key] = val
+    else:
+        continue
+
+os.chdir('../data/AB_Ptax/')
+download = []
+files = os.listdir
+for key in ab_ptax_data:
+    if key + 'xlsx' not in files:
+        download.append(ab_ptax_data[key])
+    else:
+        continue
+
+for url in download:
+    file_name = url.split('/')[-1]
+    response = requests.get(url, stream=True)
+    with open(file_name,'wb') as f:
+        f. write(response.content)
+
+
