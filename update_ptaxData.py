@@ -67,8 +67,8 @@ for file in bc_files:
         key = file.attrs.get('href')[-20:]
         val = file.attrs.get('href')
         bc_ptax_data[key] = val
-
-os.chdir('../data/BC_Ptax')
+print(os.getcwd())
+os.chdir('../BC_Ptax')
 
 download = []
 for key in bc_ptax_data:   
@@ -84,7 +84,7 @@ for url in download:
     with open(file_name, 'wb') as f:
         f.write(response.content)
 
-# Add Alberta
+
 AB_soup = bs(requests.get(AB_url, headers=headers).content, 'html.parser')
 ab_files = AB_soup.find_all('a', {'class':'heading'})
 
@@ -93,20 +93,20 @@ for file in ab_files:
     href = file.attrs.get('href')
     if (href[-3:] == 'lsx') & (href[-19] != 'f'):
         key = href[-19:-5]
-        val = href[-19:]
+        val = href
         ab_ptax_data[key] = val
     elif href[-19] == 'f':
         key = href[-24:-5]
-        val = href[-24:]
+        val = href
         ab_ptax_data[key] = val
     else:
         continue
 
-os.chdir('../data/AB_Ptax/')
+os.chdir('../AB_Ptax/')
 download = []
-files = os.listdir
+files = os.listdir()
 for key in ab_ptax_data:
-    if key + 'xlsx' not in files:
+    if key + '.xlsx' not in files:
         download.append(ab_ptax_data[key])
     else:
         continue
@@ -117,4 +117,4 @@ for url in download:
     with open(file_name,'wb') as f:
         f. write(response.content)
 
-
+#AB update only checks files starting with 2017
