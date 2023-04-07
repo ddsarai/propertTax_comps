@@ -1,0 +1,1623 @@
+Year,Municipality,PropertyClass,Rate,Province
+2021,Addington Highlands Tp,Residential,0.01258162,ON
+2021,Addington Highlands Tp,Farmland,0.00314541,ON
+2021,Addington Highlands Tp,Commercial,0.0244653,ON
+2021,Addington Highlands Tp,Industrial,0.03278201,ON
+2021,Adelaide-Metcalfe Tp,Residential,0.01246997,ON
+2021,Adelaide-Metcalfe Tp,Farmland,0.00311749,ON
+2021,Adelaide-Metcalfe Tp,Commercial,0.02132517,ON
+2021,Adelaide-Metcalfe Tp,Industrial,0.02789134,ON
+2021,Adjala-Tosorontio Tp,Residential,0.00706161,ON
+2021,Adjala-Tosorontio Tp,Farmland,0.00176541,ON
+2021,Adjala-Tosorontio Tp,Commercial,0.01556129,ON
+2021,Adjala-Tosorontio Tp,Industrial,0.01539645,ON
+2021,Admaston-Bromley Tp,Residential,0.01179454,ON
+2021,Admaston-Bromley Tp,Farmland,0.00294863,ON
+2021,Admaston-Bromley Tp,Commercial,0.02742705,ON
+2021,Admaston-Bromley Tp,Industrial,0.03698861,ON
+2021,Ajax T,Residential,0.00995684,ON
+2021,Ajax T,Farmland,0.00206787,ON
+2021,Ajax T,Commercial,0.02101891,ON
+2021,Ajax T,Industrial,0.02585171,ON
+2021,Alberton Tp,Residential,0.01027521,ON
+2021,Alberton Tp,Farmland,0.0025688,ON
+2021,Alberton Tp,Commercial,0.01822296,ON
+2021,Alberton Tp,Industrial,0.01778658,ON
+2021,Alfred and Plantagenet Tp,Residential,0.01247105,ON
+2021,Alfred and Plantagenet Tp,Farmland,0.00311776,ON
+2021,Alfred and Plantagenet Tp,Commercial,0.02456604,ON
+2021,Alfred and Plantagenet Tp,Industrial,0.03557156,ON
+2021,Algonquin Highlands Tp,Residential,0.00709362,ON
+2021,Algonquin Highlands Tp,Farmland,0.00177341,ON
+2021,Algonquin Highlands Tp,Commercial,0.01704918,ON
+2021,Algonquin Highlands Tp,Industrial,0.01835885,ON
+2021,Alnwick-Haldimand Tp,Residential,0.01178102,ON
+2021,Alnwick-Haldimand Tp,Farmland,0.00294525,ON
+2021,Alnwick-Haldimand Tp,Commercial,0.02417653,ON
+2021,Alnwick-Haldimand Tp,Industrial,0.03032714,ON
+2021,Amaranth Tp,Residential,0.01056278,ON
+2021,Amaranth Tp,Farmland,0.00236971,ON
+2021,Amaranth Tp,Commercial,0.01982,ON
+2021,Amaranth Tp,Industrial,0.02865767,ON
+2021,Amherstburg T,Residential,0.01595476,ON
+2021,Amherstburg T,Farmland,0.00398868,ON
+2021,Amherstburg T,Commercial,0.02440823,ON
+2021,Amherstburg T,Industrial,0.0368201,ON
+2021,Armour Tp,Residential,0.00923773,ON
+2021,Armour Tp,Farmland,0.00230943,ON
+2021,Armour Tp,Commercial,0.01495159,ON
+2021,Armour Tp,Industrial,0.01174573,ON
+2021,Armstrong Tp,Residential,0.01129433,ON
+2021,Armstrong Tp,Farmland,0.00282358,ON
+2021,Armstrong Tp,Commercial,0.02411224,ON
+2021,Armstrong Tp,Industrial,0.02759366,ON
+2021,Arnprior T,Residential,0.01414711,ON
+2021,Arnprior T,Farmland,0.00353678,ON
+2021,Arnprior T,Commercial,0.03169627,ON
+2021,Arnprior T,Industrial,0.04447985,ON
+2021,Ashfield-Colborne-Wawanosh Tp,Residential,0.01032568,ON
+2021,Ashfield-Colborne-Wawanosh Tp,Farmland,0.00258142,ON
+2021,Ashfield-Colborne-Wawanosh Tp,Commercial,0.01847524,ON
+2021,Ashfield-Colborne-Wawanosh Tp,Industrial,0.01847524,ON
+2021,Asphodel-Norwood Tp,Residential,0.01189087,ON
+2021,Asphodel-Norwood Tp,Farmland,0.00297272,ON
+2021,Asphodel-Norwood Tp,Commercial,0.02018245,ON
+2021,Asphodel-Norwood Tp,Industrial,0.02478889,ON
+2021,Assiginack Tp,Residential,0.01667052,ON
+2021,Assiginack Tp,Farmland,0.00416763,ON
+2021,Assiginack Tp,Commercial,0.02280932,ON
+2021,Assiginack Tp,Industrial,0.01842128,ON
+2021,Athens Tp,Residential,0.00949435,ON
+2021,Athens Tp,Farmland,0.00237359,ON
+2021,Athens Tp,Commercial,0.01952321,ON
+2021,Athens Tp,Industrial,0.02322663,ON
+2021,Augusta Tp,Residential,0.01146114,ON
+2021,Augusta Tp,Farmland,0.00286529,ON
+2021,Augusta Tp,Commercial,0.02217129,ON
+2021,Augusta Tp,Industrial,0.02678927,ON
+2021,Aurora T,Residential,0.00762133,ON
+2021,Aurora T,Farmland,0.00190533,ON
+2021,Aurora T,Commercial,0.01691426,ON
+2021,Aurora T,Industrial,0.01880927,ON
+2021,Aylmer T,Residential,0.01617132,ON
+2021,Aylmer T,Farmland,0.00375001,ON
+2021,Aylmer T,Commercial,0.03277663,ON
+2021,Aylmer T,Industrial,0.04137841,ON
+2021,Baldwin Tp,Residential,0.01242155,ON
+2021,Baldwin Tp,Farmland,0.00310539,ON
+2021,Baldwin Tp,Commercial,0.02218754,ON
+2021,Baldwin Tp,Industrial,0.02078074,ON
+2021,Barrie C,Residential,0.01218959,ON
+2021,Barrie C,Farmland,0.0030474,ON
+2021,Barrie C,Commercial,0.02407654,ON
+2021,Barrie C,Industrial,0.02496343,ON
+2021,Bayham M,Residential,0.01439866,ON
+2021,Bayham M,Farmland,0.0033423,ON
+2021,Bayham M,Commercial,0.02987372,ON
+2021,Bayham M,Industrial,0.04113405,ON
+2021,Beckwith Tp,Residential,0.00822802,ON
+2021,Beckwith Tp,Farmland,0.00205701,ON
+2021,Beckwith Tp,Commercial,0.02114397,ON
+2021,Beckwith Tp,Industrial,0.02575695,ON
+2021,Belleville C,Residential,0.01089036,ON
+2021,Belleville C,Farmland,0.00272259,ON
+2021,Belleville C,Commercial,0.02676367,ON
+2021,Belleville C,Industrial,0.03126486,ON
+2021,Billings Tp,Residential,0.01233,ON
+2021,Billings Tp,Farmland,0.0030825,ON
+2021,Billings Tp,Commercial,0.01724236,ON
+2021,Billings Tp,Industrial,0.0196,ON
+2021,Black River - Matheson Tp,Residential,0.01344693,ON
+2021,Black River - Matheson Tp,Farmland,0.00336173,ON
+2021,Black River - Matheson Tp,Commercial,0.03239552,ON
+2021,Black River - Matheson Tp,Industrial,0.04014153,ON
+2021,Blandford - Blenheim Tp,Residential,0.00967002,ON
+2021,Blandford - Blenheim Tp,Farmland,0.00215458,ON
+2021,Blandford - Blenheim Tp,Commercial,0.0242807,ON
+2021,Blandford - Blenheim Tp,Industrial,0.03020826,ON
+2021,Blind River T,Residential,0.0198385,ON
+2021,Blind River T,Farmland,0.00495963,ON
+2021,Blind River T,Commercial,0.02839925,ON
+2021,Blind River T,Industrial,0.02991702,ON
+2021,Bluewater M,Residential,0.01064266,ON
+2021,Bluewater M,Farmland,0.00266066,ON
+2021,Bluewater M,Commercial,0.01882392,ON
+2021,Bluewater M,Industrial,0.01882392,ON
+2021,Bonfield Tp,Residential,0.01216179,ON
+2021,Bonfield Tp,Farmland,0.00304045,ON
+2021,Bonfield Tp,Commercial,0.01950303,ON
+2021,Bonfield Tp,Industrial,0.02220669,ON
+2021,Bonnechere Valley Tp,Residential,0.01194294,ON
+2021,Bonnechere Valley Tp,Farmland,0.00298574,ON
+2021,Bonnechere Valley Tp,Commercial,0.02769636,ON
+2021,Bonnechere Valley Tp,Industrial,0.03781763,ON
+2021,Bracebridge T,Residential,0.00905781,ON
+2021,Bracebridge T,Farmland,0.00226448,ON
+2021,Bracebridge T,Commercial,0.01509079,ON
+2021,Bracebridge T,Industrial,0.01627759,ON
+2021,Bradford West Gwillimbury T,Residential,0.0073302,ON
+2021,Bradford West Gwillimbury T,Farmland,0.00183255,ON
+2021,Bradford West Gwillimbury T,Commercial,0.01588958,ON
+2021,Bradford West Gwillimbury T,Industrial,0.01571674,ON
+2021,Brampton C,Residential,0.00962669,ON
+2021,Brampton C,Farmland,0.00240668,ON
+2021,Brampton C,Commercial,0.01930221,ON
+2021,Brampton C,Industrial,0.02070214,ON
+2021,Brant County,Residential,0.0099331,ON
+2021,Brant County,Farmland,0.0023993,ON
+2021,Brant County,Commercial,0.0247659,ON
+2021,Brant County,Industrial,0.0302279,ON
+2021,Brantford C,Residential,0.01334371,ON
+2021,Brantford C,Farmland,0.00333593,ON
+2021,Brantford C,Commercial,0.02942319,ON
+2021,Brantford C,Industrial,0.03535958,ON
+2021,Brethour Tp,Residential,0.01027002,ON
+2021,Brethour Tp,Farmland,0.0025675,ON
+2021,Brighton M,Residential,0.01259459,ON
+2021,Brighton M,Farmland,0.00314864,ON
+2021,Brighton M,Commercial,0.02539689,ON
+2021,Brighton M,Industrial,0.03203564,ON
+2021,Brockton M,Residential,0.01427231,ON
+2021,Brockton M,Farmland,0.00356808,ON
+2021,Brockton M,Commercial,0.02451254,ON
+2021,Brockton M,Industrial,0.03106974,ON
+2021,Brockville C,Residential,0.014657851,ON
+2021,Brockville C,Commercial,0.034375811,ON
+2021,Brockville C,Industrial,0.043104507,ON
+2021,Brooke-Alvinston M,Residential,0.0134632,ON
+2021,Brooke-Alvinston M,Farmland,0.0030794,ON
+2021,Brooke-Alvinston M,Commercial,0.02821652,ON
+2021,Brooke-Alvinston M,Industrial,0.03323408,ON
+2021,Bruce Co,Residential,0.00413204,ON
+2021,Bruce Co,Farmland,0.00103301,ON
+2021,Bruce Co,Commercial,0.00509522,ON
+2021,Bruce Co,Industrial,0.00722157,ON
+2021,Bruce Mines T,Residential,0.0184499,ON
+2021,Bruce Mines T,Commercial,0.03143206,ON
+2021,Bruce Mines T,Industrial,0.05329934,ON
+2021,"Brudenell, Lyndoch and Raglan Tp",Residential,0.01097965,ON
+2021,"Brudenell, Lyndoch and Raglan Tp",Farmland,0.00274491,ON
+2021,"Brudenell, Lyndoch and Raglan Tp",Commercial,0.02594828,ON
+2021,"Brudenell, Lyndoch and Raglan Tp",Industrial,0.03384372,ON
+2021,Burk's Falls V,Residential,0.01729986,ON
+2021,Burk's Falls V,Commercial,0.02614685,ON
+2021,Burk's Falls V,Industrial,0.03119951,ON
+2021,Burlington C,Residential,0.0073176,ON
+2021,Burlington C,Farmland,0.00154002,ON
+2021,Burlington C,Commercial,0.01613514,ON
+2021,Burlington C,Industrial,0.02090012,ON
+2021,Burpee and Mills Tp,Residential,0.01171983,ON
+2021,Burpee and Mills Tp,Farmland,0.00262426,ON
+2021,Burpee and Mills Tp,Commercial,0.01686634,ON
+2021,Caledon T,Residential,0.00803694,ON
+2021,Caledon T,Farmland,0.00149388,ON
+2021,Caledon T,Commercial,0.01756832,ON
+2021,Caledon T,Industrial,0.01915277,ON
+2021,Callander M,Residential,0.01183288,ON
+2021,Callander M,Farmland,0.00295822,ON
+2021,Callander M,Commercial,0.02011905,ON
+2021,Callander M,Industrial,0.02269366,ON
+2021,Calvin Tp,Residential,0.01207558,ON
+2021,Calvin Tp,Farmland,0.0030189,ON
+2021,Calvin Tp,Commercial,0.02029202,ON
+2021,Calvin Tp,Industrial,0.0357811,ON
+2021,Cambridge C,Residential,0.01044401,ON
+2021,Cambridge C,Farmland,0.00261103,ON
+2021,Cambridge C,Commercial,0.02618244,ON
+2021,Cambridge C,Industrial,0.02618244,ON
+2021,Carleton Place T,Residential,0.01220162,ON
+2021,Carleton Place T,Farmland,0.00305041,ON
+2021,Carleton Place T,Commercial,0.02846703,ON
+2021,Carleton Place T,Industrial,0.03581665,ON
+2021,Carling Tp,Residential,0.00667239,ON
+2021,Carling Tp,Farmland,0.0016681,ON
+2021,Carling Tp,Commercial,0.01279571,ON
+2021,Carling Tp,Industrial,0.02008086,ON
+2021,Carlow-Mayo Tp,Residential,0.01359079,ON
+2021,Carlow-Mayo Tp,Farmland,0.0033977,ON
+2021,Carlow-Mayo Tp,Commercial,0.02206687,ON
+2021,Casey Tp,Residential,0.01296843,ON
+2021,Casey Tp,Farmland,0.00324211,ON
+2021,Casey Tp,Commercial,0.01471096,ON
+2021,Casey Tp,Industrial,0.02138227,ON
+2021,Casselman M,Residential,0.01188878,ON
+2021,Casselman M,Farmland,0.00297219,ON
+2021,Casselman M,Commercial,0.02372699,ON
+2021,Casselman M,Industrial,0.03414681,ON
+2021,Cavan Monaghan Tp,Residential,0.01174123,ON
+2021,Cavan Monaghan Tp,Farmland,0.00293531,ON
+2021,Cavan Monaghan Tp,Commercial,0.02001805,ON
+2021,Cavan Monaghan Tp,Industrial,0.02455796,ON
+2021,Central Elgin M,Residential,0.01599784,ON
+2021,Central Elgin M,Farmland,0.00371011,ON
+2021,Central Elgin M,Commercial,0.03249254,ON
+2021,Central Elgin M,Industrial,0.04099239,ON
+2021,Central Frontenac Tp,Residential,0.01281221,ON
+2021,Central Frontenac Tp,Farmland,0.00320305,ON
+2021,Central Frontenac Tp,Commercial,0.02008221,ON
+2021,Central Frontenac Tp,Industrial,0.02008221,ON
+2021,Central Huron M,Residential,0.01259679,ON
+2021,Central Huron M,Farmland,0.00314919,ON
+2021,Central Huron M,Commercial,0.02097346,ON
+2021,Central Huron M,Industrial,0.02097346,ON
+2021,Central Manitoulin M,Residential,0.01392525,ON
+2021,Central Manitoulin M,Farmland,0.00348131,ON
+2021,Central Manitoulin M,Commercial,0.01965868,ON
+2021,Central Manitoulin M,Industrial,0.02370033,ON
+2021,Centre Hastings M,Residential,0.01462304,ON
+2021,Centre Hastings M,Farmland,0.00365576,ON
+2021,Centre Hastings M,Commercial,0.02320235,ON
+2021,Centre Hastings M,Industrial,0.02358466,ON
+2021,Centre Wellington Tp,Residential,0.01073379,ON
+2021,Centre Wellington Tp,Farmland,0.00268344,ON
+2021,Centre Wellington Tp,Commercial,0.02252284,ON
+2021,Centre Wellington Tp,Industrial,0.03088908,ON
+2021,Chamberlain Tp,Residential,0.01218974,ON
+2021,Chamberlain Tp,Farmland,0.00304744,ON
+2021,Chamberlain Tp,Commercial,0.01400167,ON
+2021,Champlain Tp,Residential,0.0118717,ON
+2021,Champlain Tp,Farmland,0.00296792,ON
+2021,Champlain Tp,Commercial,0.02370238,ON
+2021,Champlain Tp,Industrial,0.03410502,ON
+2021,Chapple Tp,Residential,0.0130328,ON
+2021,Chapple Tp,Farmland,0.0032582,ON
+2021,Chapple Tp,Commercial,0.01858348,ON
+2021,Chapple Tp,Industrial,0.03162005,ON
+2021,Charlton-Dack M,Residential,0.01296501,ON
+2021,Charlton-Dack M,Farmland,0.00324125,ON
+2021,Charlton-Dack M,Commercial,0.02655496,ON
+2021,Charlton-Dack M,Industrial,0.03439488,ON
+2021,Chatham-Kent M,Residential,0.01466204,ON
+2021,Chatham-Kent M,Farmland,0.00327155,ON
+2021,Chatham-Kent M,Commercial,0.03428142,ON
+2021,Chatham-Kent M,Industrial,0.0355237,ON
+2021,Chisholm Tp,Residential,0.013557,ON
+2021,Chisholm Tp,Farmland,0.00338925,ON
+2021,Chisholm Tp,Commercial,0.02289204,ON
+2021,Chisholm Tp,Industrial,0.01966663,ON
+2021,Clarence-Rockland C,Residential,0.01256262,ON
+2021,Clarence-Rockland C,Farmland,0.00314065,ON
+2021,Clarence-Rockland C,Commercial,0.02469799,ON
+2021,Clarence-Rockland C,Industrial,0.03579562,ON
+2021,Clarington M,Residential,0.01150944,ON
+2021,Clarington M,Farmland,0.00237839,ON
+2021,Clarington M,Commercial,0.02327018,ON
+2021,Clarington M,Industrial,0.0289934,ON
+2021,Cobalt T,Residential,0.01498342,ON
+2021,Cobalt T,Commercial,0.03368883,ON
+2021,Cobourg T,Residential,0.0145791,ON
+2021,Cobourg T,Farmland,0.0036448,ON
+2021,Cobourg T,Commercial,0.0283737,ON
+2021,Cobourg T,Industrial,0.0362031,ON
+2021,Cochrane T,Residential,0.01641392,ON
+2021,Cochrane T,Farmland,0.00410348,ON
+2021,Cochrane T,Commercial,0.03826415,ON
+2021,Cochrane T,Industrial,0.0376963,ON
+2021,Cockburn Island Tp,Residential,0.01187716,ON
+2021,Coleman Tp,Residential,0.01058,ON
+2021,Coleman Tp,Commercial,0.022375,ON
+2021,Coleman Tp,Industrial,0.031425,ON
+2021,Conmee Tp,Residential,0.01526299,ON
+2021,Conmee Tp,Farmland,0.00381575,ON
+2021,Conmee Tp,Commercial,0.02559294,ON
+2021,Conmee Tp,Industrial,0.03383274,ON
+2021,Cornwall C,Residential,0.0167415,ON
+2021,Cornwall C,Farmland,0.00418537,ON
+2021,Cornwall C,Commercial,0.03832096,ON
+2021,Cornwall C,Industrial,0.04880624,ON
+2021,Cramahe Tp,Residential,0.01375772,ON
+2021,Cramahe Tp,Farmland,0.00343943,ON
+2021,Cramahe Tp,Commercial,0.02714158,ON
+2021,Cramahe Tp,Industrial,0.03447821,ON
+2021,Dawn-Euphemia Tp,Residential,0.01283527,ON
+2021,Dawn-Euphemia Tp,Farmland,0.00293749,ON
+2021,Dawn-Euphemia Tp,Commercial,0.02719481,ON
+2021,Dawn-Euphemia Tp,Industrial,0.03194834,ON
+2021,Dawson Tp,Residential,0.01056155,ON
+2021,Dawson Tp,Farmland,0.00264039,ON
+2021,Dawson Tp,Commercial,0.02668246,ON
+2021,Dawson Tp,Industrial,0.01932446,ON
+2021,Deep River T,Residential,0.01533093,ON
+2021,Deep River T,Commercial,0.03384454,ON
+2021,Deep River T,Industrial,0.04768038,ON
+2021,Deseronto T,Residential,0.01735506,ON
+2021,Deseronto T,Farmland,0.00433877,ON
+2021,Deseronto T,Commercial,0.02620757,ON
+2021,Deseronto T,Industrial,0.02666966,ON
+2021,Dorion Tp,Residential,0.01397661,ON
+2021,Dorion Tp,Farmland,0.00349416,ON
+2021,Dorion Tp,Commercial,0.03951971,ON
+2021,Dorion Tp,Industrial,0.02843808,ON
+2021,Drummond-North Elmsley Tp,Residential,0.00912346,ON
+2021,Drummond-North Elmsley Tp,Farmland,0.00228087,ON
+2021,Drummond-North Elmsley Tp,Commercial,0.02279418,ON
+2021,Drummond-North Elmsley Tp,Industrial,0.02802384,ON
+2021,Dryden C,Residential,0.0169894,ON
+2021,Dryden C,Farmland,0.00424735,ON
+2021,Dryden C,Commercial,0.03753408,ON
+2021,Dryden C,Industrial,0.0317554,ON
+2021,Dubreuilville Tp,Residential,0.03477624,ON
+2021,Dubreuilville Tp,Commercial,0.0609966,ON
+2021,Dubreuilville Tp,Industrial,0.08251552,ON
+2021,Dufferin Co,Residential,0.00363549,ON
+2021,Dufferin Co,Farmland,0.00079981,ON
+2021,Dufferin Co,Commercial,0.0044353,ON
+2021,Dufferin Co,Industrial,0.00799226,ON
+2021,Durham R,Residential,0.00501283,ON
+2021,Durham R,Farmland,0.00100257,ON
+2021,Durham R,Commercial,0.0072686,ON
+2021,Durham R,Industrial,0.01014346,ON
+2021,Dutton-Dunwich M,Residential,0.0159974,ON
+2021,Dutton-Dunwich M,Farmland,0.00371001,ON
+2021,Dutton-Dunwich M,Commercial,0.03249181,ON
+2021,Dutton-Dunwich M,Industrial,0.04099141,ON
+2021,Dysart et al Tp,Residential,0.00672702,ON
+2021,Dysart et al Tp,Farmland,0.00168175,ON
+2021,Dysart et al Tp,Commercial,0.01650561,ON
+2021,Dysart et al Tp,Industrial,0.01772899,ON
+2021,Ear Falls Tp,Residential,0.02349843,ON
+2021,Ear Falls Tp,Commercial,0.05229749,ON
+2021,East Ferris M,Residential,0.01042319,ON
+2021,East Ferris M,Farmland,0.0026058,ON
+2021,East Ferris M,Commercial,0.01769319,ON
+2021,East Ferris M,Industrial,0.01769319,ON
+2021,East Garafraxa Tp,Residential,0.00961822,ON
+2021,East Garafraxa Tp,Farmland,0.00216191,ON
+2021,East Garafraxa Tp,Commercial,0.01866763,ON
+2021,East Garafraxa Tp,Industrial,0.02658114,ON
+2021,East Gwillimbury T,Residential,0.00782102,ON
+2021,East Gwillimbury T,Farmland,0.00195525,ON
+2021,East Gwillimbury T,Commercial,0.01718027,ON
+2021,East Gwillimbury T,Industrial,0.01913741,ON
+2021,East Hawkesbury Tp,Residential,0.010428,ON
+2021,East Hawkesbury Tp,Farmland,0.002607,ON
+2021,East Hawkesbury Tp,Commercial,0.02162201,ON
+2021,East Hawkesbury Tp,Industrial,0.03057244,ON
+2021,East Zorra - Tavistock Tp,Residential,0.01044382,ON
+2021,East Zorra - Tavistock Tp,Farmland,0.0023230397,ON
+2021,East Zorra - Tavistock Tp,Commercial,0.0257523004,ON
+2021,East Zorra - Tavistock Tp,Industrial,0.0322433442,ON
+2021,Edwardsburgh-Cardinal Tp,Residential,0.01195769,ON
+2021,Edwardsburgh-Cardinal Tp,Farmland,0.00298943,ON
+2021,Edwardsburgh-Cardinal Tp,Commercial,0.02283986,ON
+2021,Edwardsburgh-Cardinal Tp,Industrial,0.02768873,ON
+2021,Elgin Co,Residential,0.00624937,ON
+2021,Elgin Co,Farmland,0.00143736,ON
+2021,Elgin Co,Commercial,0.01023397,ON
+2021,Elgin Co,Industrial,0.01390547,ON
+2021,Elliot Lake C,Residential,0.01976593,ON
+2021,Elliot Lake C,Commercial,0.035698,ON
+2021,Elliot Lake C,Industrial,0.035698,ON
+2021,Englehart T,Residential,0.0173571,ON
+2021,Englehart T,Commercial,0.0244715,ON
+2021,Enniskillen Tp,Residential,0.01181385,ON
+2021,Enniskillen Tp,Farmland,0.00270665,ON
+2021,Enniskillen Tp,Commercial,0.02553286,ON
+2021,Enniskillen Tp,Industrial,0.02985691,ON
+2021,Espanola T,Residential,0.01674479,ON
+2021,Espanola T,Farmland,0.0041862,ON
+2021,Espanola T,Commercial,0.03631853,ON
+2021,Espanola T,Industrial,0.04405392,ON
+2021,Essa Tp,Residential,0.00687479,ON
+2021,Essa Tp,Farmland,0.0017187,ON
+2021,Essa Tp,Commercial,0.01533294,ON
+2021,Essa Tp,Industrial,0.01517366,ON
+2021,Essex Co,Residential,0.0048942989,ON
+2021,Essex Co,Farmland,0.0012235747,ON
+2021,Essex Co,Commercial,0.0052958468,ON
+2021,Essex Co,Industrial,0.0095071756,ON
+2021,Essex T,Residential,0.0150873,ON
+2021,Essex T,Farmland,0.00377207,ON
+2021,Essex T,Commercial,0.02346985,ON
+2021,Essex T,Industrial,0.03513518,ON
+2021,Essex T,Residential,0.0150873,ON
+2021,Essex T,Farmland,0.00377207,ON
+2021,Essex T,Commercial,0.02346985,ON
+2021,Essex T,Industrial,0.03513518,ON
+2021,Essex T,Residential,0.0145173,ON
+2021,Essex T,Farmland,0.00362907,ON
+2021,Essex T,Commercial,0.02285285,ON
+2021,Essex T,Industrial,0.03402818,ON
+2021,Essex T,Residential,0.0145173,ON
+2021,Essex T,Farmland,0.00362907,ON
+2021,Essex T,Commercial,0.02285285,ON
+2021,Essex T,Industrial,0.03402818,ON
+2021,Faraday Tp,Residential,0.01224419,ON
+2021,Faraday Tp,Farmland,0.0030608,ON
+2021,Faraday Tp,Commercial,0.02058551,ON
+2021,Faraday Tp,Industrial,0.02089833,ON
+2021,Fauquier-Strickland Tp,Residential,0.01786846,ON
+2021,Fauquier-Strickland Tp,Farmland,0.00446712,ON
+2021,Fauquier-Strickland Tp,Commercial,0.02870024,ON
+2021,Fauquier-Strickland Tp,Industrial,0.01697706,ON
+2021,Fort Erie T,Residential,0.01420755,ON
+2021,Fort Erie T,Farmland,0.00355189,ON
+2021,Fort Erie T,Commercial,0.03079428,ON
+2021,Fort Erie T,Industrial,0.04214196,ON
+2021,Fort Frances T,Residential,0.01941408,ON
+2021,Fort Frances T,Farmland,0.00485352,ON
+2021,Fort Frances T,Commercial,0.04214593,ON
+2021,Fort Frances T,Commercial,0.07024322,ON
+2021,Fort Frances T,Industrial,0.05559353,ON
+2021,French River M,Residential,0.01011927,ON
+2021,French River M,Farmland,0.00252982,ON
+2021,French River M,Commercial,0.02012925,ON
+2021,French River M,Industrial,0.02275928,ON
+2021,Front of Yonge Tp,Residential,0.01037626,ON
+2021,Front of Yonge Tp,Farmland,0.00259407,ON
+2021,Front of Yonge Tp,Commercial,0.02071062,ON
+2021,Front of Yonge Tp,Industrial,0.02482413,ON
+2021,Frontenac Co,Residential,0.0018782,ON
+2021,Frontenac Co,Farmland,0.00046955,ON
+2021,Frontenac Co,Commercial,0.0018782,ON
+2021,Frontenac Co,Industrial,0.0018782,ON
+2021,Frontenac Islands Tp,Residential,0.00869156,ON
+2021,Frontenac Islands Tp,Farmland,0.00217289,ON
+2021,Frontenac Islands Tp,Commercial,0.01596156,ON
+2021,Frontenac Islands Tp,Industrial,0.01596156,ON
+2021,Frontenac Islands Tp,Residential,0.00745468,ON
+2021,Frontenac Islands Tp,Farmland,0.00186367,ON
+2021,Frontenac Islands Tp,Commercial,0.01472468,ON
+2021,Gananoque ST,Residential,0.01480189,ON
+2021,Gananoque ST,Farmland,0.00370047,ON
+2021,Gananoque ST,Commercial,0.03331982,ON
+2021,Gananoque ST,Industrial,0.03393696,ON
+2021,Gauthier Tp,Residential,0.02131932,ON
+2021,Gauthier Tp,Commercial,0.02766499,ON
+2021,Gauthier Tp,Industrial,0.03056825,ON
+2021,Georgian Bay Tp,Residential,0.00599042,ON
+2021,Georgian Bay Tp,Commercial,0.01171666,ON
+2021,Georgian Bay Tp,Industrial,0.01290346,ON
+2021,Georgian Bluffs Tp,Residential,0.01095332,ON
+2021,Georgian Bluffs Tp,Farmland,0.00243678,ON
+2021,Georgian Bluffs Tp,Commercial,0.02102111,ON
+2021,Georgian Bluffs Tp,Industrial,0.02605411,ON
+2021,Georgina T,Residential,0.01005041,ON
+2021,Georgina T,Farmland,0.0025126,ON
+2021,Georgina T,Commercial,0.02015005,ON
+2021,Georgina T,Industrial,0.02280075,ON
+2021,Gillies Tp,Residential,0.01340691,ON
+2021,Gillies Tp,Farmland,0.00335173,ON
+2021,Gillies Tp,Commercial,0.02761184,ON
+2021,Goderich T,Residential,0.01550292,ON
+2021,Goderich T,Farmland,0.00387573,ON
+2021,Goderich T,Commercial,0.0241702,ON
+2021,Goderich T,Industrial,0.0241702,ON
+2021,Gordon-Barrie Island M,Residential,0.00955829,ON
+2021,Gordon-Barrie Island M,Farmland,0.00238957,ON
+2021,Gordon-Barrie Island M,Commercial,0.0170579,ON
+2021,Gordon-Barrie Island M,Industrial,0.01372937,ON
+2021,Gore Bay T,Residential,0.0184154,ON
+2021,Gore Bay T,Farmland,0.0046039,ON
+2021,Gore Bay T,Commercial,0.0239969,ON
+2021,Gore Bay T,Industrial,0.0239969,ON
+2021,Grand Valley T,Residential,0.01208226,ON
+2021,Grand Valley T,Farmland,0.002704,ON
+2021,Grand Valley T,Commercial,0.02167375,ON
+2021,Grand Valley T,Industrial,0.03199808,ON
+2021,Gravenhurst T,Residential,0.00909588,ON
+2021,Gravenhurst T,Farmland,0.002274,ON
+2021,Gravenhurst T,Commercial,0.01513267,ON
+2021,Gravenhurst T,Industrial,0.01631947,ON
+2021,Greater Madawaska Tp,Residential,0.00939063,ON
+2021,Greater Madawaska Tp,Farmland,0.00234766,ON
+2021,Greater Madawaska Tp,Commercial,0.02306468,ON
+2021,Greater Madawaska Tp,Industrial,0.0309803,ON
+2021,Greater Napanee T,Residential,0.01172214,ON
+2021,Greater Napanee T,Farmland,0.00293079,ON
+2021,Greater Napanee T,Commercial,0.02324726,ON
+2021,Greater Napanee T,Industrial,0.03091694,ON
+2021,Greater Napanee T,Residential,0.01223814,ON
+2021,Greater Napanee T,Farmland,0.00305979,ON
+2021,Greater Napanee T,Commercial,0.02397826,ON
+2021,Greater Napanee T,Industrial,0.03203671,ON
+2021,Greater Sudbury C,Residential,0.01270912,ON
+2021,Greater Sudbury C,Farmland,0.00261832,ON
+2021,Greater Sudbury C,Commercial,0.03017448,ON
+2021,Greater Sudbury C,Industrial,0.04893842,ON
+2021,Greenstone M,Residential,0.02387271,ON
+2021,Greenstone M,Commercial,0.04224033,ON
+2021,Greenstone M,Industrial,0.06465678,ON
+2021,Grey Co,Residential,0.00363523,ON
+2021,Grey Co,Farmland,0.00079248,ON
+2021,Grey Co,Commercial,0.00471453,ON
+2021,Grey Co,Industrial,0.00665611,ON
+2021,Grey Highlands M,Residential,0.01121169,ON
+2021,Grey Highlands M,Farmland,0.00249311,ON
+2021,Grey Highlands M,Commercial,0.02135618,ON
+2021,Grey Highlands M,Industrial,0.02652718,ON
+2021,Grimsby T,Residential,0.01020455,ON
+2021,Grimsby T,Farmland,0.00255114,ON
+2021,Grimsby T,Commercial,0.02384948,ON
+2021,Grimsby T,Industrial,0.03161407,ON
+2021,Guelph C,Residential,0.01142609,ON
+2021,Guelph C,Farmland,0.00285652,ON
+2021,Guelph C,Commercial,0.02700881,ON
+2021,Guelph C,Industrial,0.0306189,ON
+2021,Guelph-Eramosa Tp,Residential,0.01029893,ON
+2021,Guelph-Eramosa Tp,Farmland,0.00257473,ON
+2021,Guelph-Eramosa Tp,Commercial,0.02187446,ON
+2021,Guelph-Eramosa Tp,Industrial,0.02984541,ON
+2021,Haldimand County,Residential,0.01202069,ON
+2021,Haldimand County,Farmland,0.00300517,ON
+2021,Haldimand County,Commercial,0.02655968,ON
+2021,Haldimand County,Industrial,0.03321602,ON
+2021,Haliburton Co,Residential,0.00222264,ON
+2021,Haliburton Co,Farmland,0.00055566,ON
+2021,Haliburton Co,Commercial,0.0032955,ON
+2021,Haliburton Co,Industrial,0.00381871,ON
+2021,Halton Hills T,Residential,0.00771155,ON
+2021,Halton Hills T,Farmland,0.00161881,ON
+2021,Halton Hills T,Commercial,0.01670894,ON
+2021,Halton Hills T,Industrial,0.02172375,ON
+2021,Halton R,Residential,0.00253875,ON
+2021,Halton R,Farmland,0.00050775,ON
+2021,Halton R,Commercial,0.00369768,ON
+2021,Halton R,Industrial,0.00530775,ON
+2021,Hamilton C,Residential,0.00925687,ON
+2021,Hamilton C,Farmland,0.00174784,ON
+2021,Hamilton C,Commercial,0.02409921,ON
+2021,Hamilton C,Industrial,0.03390702,ON
+2021,Hamilton Tp,Residential,0.01142347,ON
+2021,Hamilton Tp,Farmland,0.00285589,ON
+2021,Hamilton Tp,Commercial,0.02364026,ON
+2021,Hamilton Tp,Industrial,0.02957626,ON
+2021,Hanover T,Residential,0.01390937,ON
+2021,Hanover T,Farmland,0.0030812,ON
+2021,Hanover T,Commercial,0.02485481,ON
+2021,Hanover T,Industrial,0.03146663,ON
+2021,Harley Tp,Residential,0.01192217,ON
+2021,Harley Tp,Farmland,0.00298054,ON
+2021,Harley Tp,Commercial,0.02023139,ON
+2021,Harley Tp,Industrial,0.02023139,ON
+2021,Harris Tp,Residential,0.00664367,ON
+2021,Harris Tp,Farmland,0.00166092,ON
+2021,Harris Tp,Commercial,0.01442504,ON
+2021,Hastings Co,Residential,0.00297319,ON
+2021,Hastings Co,Farmland,0.0007433,ON
+2021,Hastings Co,Commercial,0.00327051,ON
+2021,Hastings Co,Industrial,0.00335733,ON
+2021,Hastings Highlands M,Residential,0.01212418,ON
+2021,Hastings Highlands M,Farmland,0.00303105,ON
+2021,Hastings Highlands M,Commercial,0.0204536,ON
+2021,Hastings Highlands M,Industrial,0.02076296,ON
+2021,Hawkesbury T,Residential,0.01667789,ON
+2021,Hawkesbury T,Commercial,0.03062809,ON
+2021,Hawkesbury T,Industrial,0.04586525,ON
+2021,"Head, Clara and Maria Tp",Residential,0.00736758,ON
+2021,"Head, Clara and Maria Tp",Commercial,0.01939345,ON
+2021,"Head, Clara and Maria Tp",Industrial,0.02523861,ON
+2021,Hearst T,Residential,0.01935306,ON
+2021,Hearst T,Farmland,0.00483827,ON
+2021,Hearst T,Commercial,0.02840537,ON
+2021,Hearst T,Industrial,0.03627781,ON
+2021,Highlands East M,Residential,0.00882764,ON
+2021,Highlands East M,Farmland,0.00220716,ON
+2021,Highlands East M,Commercial,0.0196195,ON
+2021,Highlands East M,Industrial,0.02133771,ON
+2021,Hilliard Tp,Residential,0.01310759,ON
+2021,Hilliard Tp,Farmland,0.0032769,ON
+2021,Hilliard Tp,Commercial,0.02342828,ON
+2021,Hilton Beach V,Residential,0.01768057,ON
+2021,Hilton Beach V,Commercial,0.02656563,ON
+2021,Hilton Beach V,Industrial,0.02656563,ON
+2021,Hilton Tp,Residential,0.00879062,ON
+2021,Hilton Tp,Farmland,0.00219765,ON
+2021,Hilton Tp,Commercial,0.01763907,ON
+2021,Hilton Tp,Industrial,0.01678668,ON
+2021,Hornepayne Tp,Residential,0.04797906,ON
+2021,Hornepayne Tp,Commercial,0.06908159,ON
+2021,Horton Tp,Residential,0.01081771,ON
+2021,Horton Tp,Farmland,0.00270442,ON
+2021,Horton Tp,Commercial,0.0256544,ON
+2021,Horton Tp,Industrial,0.03503055,ON
+2021,Howick Tp,Residential,0.01364582,ON
+2021,Howick Tp,Farmland,0.00341145,ON
+2021,Howick Tp,Commercial,0.02212739,ON
+2021,Howick Tp,Industrial,0.02212739,ON
+2021,Hudson Tp,Residential,0.00880996,ON
+2021,Hudson Tp,Farmland,0.00220249,ON
+2021,Hudson Tp,Commercial,0.01522456,ON
+2021,Hudson Tp,Industrial,0.01490934,ON
+2021,Huntsville T,Residential,0.0083704,ON
+2021,Huntsville T,Farmland,0.0020926,ON
+2021,Huntsville T,Commercial,0.01433469,ON
+2021,Huntsville T,Industrial,0.01552149,ON
+2021,Huron Co,Residential,0.00460558,ON
+2021,Huron Co,Farmland,0.00115139,ON
+2021,Huron Co,Commercial,0.00506613,ON
+2021,Huron Co,Industrial,0.00506613,ON
+2021,Huron East M,Residential,0.01000242,ON
+2021,Huron East M,Farmland,0.0025006,ON
+2021,Huron East M,Commercial,0.01811966,ON
+2021,Huron East M,Industrial,0.01811966,ON
+2021,Huron Shores M,Residential,0.01601165,ON
+2021,Huron Shores M,Farmland,0.00400291,ON
+2021,Huron Shores M,Commercial,0.02472982,ON
+2021,Huron Shores M,Industrial,0.02676883,ON
+2021,Huron-Kinloss Tp,Residential,0.01208604,ON
+2021,Huron-Kinloss Tp,Farmland,0.00302151,ON
+2021,Huron-Kinloss Tp,Commercial,0.02181665,ON
+2021,Huron-Kinloss Tp,Industrial,0.02724879,ON
+2021,Ingersoll T,Residential,0.01430142,ON
+2021,Ingersoll T,Farmland,0.00316284,ON
+2021,Ingersoll T,Commercial,0.03308868,ON
+2021,Ingersoll T,Industrial,0.04238883,ON
+2021,Innisfil T,Residential,0.00995984,ON
+2021,Innisfil T,Farmland,0.00248996,ON
+2021,Innisfil T,Commercial,0.0191038,ON
+2021,Innisfil T,Industrial,0.01885259,ON
+2021,Iroquois Falls T,Residential,0.02289577,ON
+2021,Iroquois Falls T,Farmland,0.00572394,ON
+2021,Iroquois Falls T,Commercial,0.05060018,ON
+2021,Iroquois Falls T,Industrial,0.05768801,ON
+2021,James Tp,Residential,0.01154204,ON
+2021,James Tp,Farmland,0.00288551,ON
+2021,James Tp,Commercial,0.03674374,ON
+2021,James Tp,Industrial,0.0577809,ON
+2021,Jocelyn Tp,Residential,0.0109178,ON
+2021,Jocelyn Tp,Farmland,0.00272945,ON
+2021,Jocelyn Tp,Commercial,0.02099287,ON
+2021,Jocelyn Tp,Industrial,0.01869568,ON
+2021,Johnson Tp,Residential,0.01792751,ON
+2021,Johnson Tp,Farmland,0.00448188,ON
+2021,Johnson Tp,Commercial,0.0323747,ON
+2021,Johnson Tp,Industrial,0.0323747,ON
+2021,Joly Tp,Residential,0.01376642,ON
+2021,Joly Tp,Farmland,0.00344161,ON
+2021,Joly Tp,Commercial,0.02093595,ON
+2021,Joly Tp,Industrial,0.02163111,ON
+2021,Kapuskasing T,Residential,0.0232538,ON
+2021,Kapuskasing T,Farmland,0.00581345,ON
+2021,Kapuskasing T,Commercial,0.0394405,ON
+2021,Kapuskasing T,Industrial,0.04149518,ON
+2021,Kawartha Lakes C,Residential,0.0088254,ON
+2021,Kawartha Lakes C,Farmland,0.00220635,ON
+2021,Kawartha Lakes C,Commercial,0.01886258,ON
+2021,Kawartha Lakes C,Industrial,0.01862287,ON
+2021,Kearney T,Residential,0.01015417,ON
+2021,Kearney T,Farmland,0.00253854,ON
+2021,Kearney T,Commercial,0.01551453,ON
+2021,Kearney T,Industrial,0.01548997,ON
+2021,Kenora C,Residential,0.01374603,ON
+2021,Kenora C,Farmland,0.00343651,ON
+2021,Kenora C,Commercial,0.03450481,ON
+2021,Kenora C,Industrial,0.03429011,ON
+2021,Kerns Tp,Residential,0.01219569,ON
+2021,Kerns Tp,Farmland,0.00304892,ON
+2021,Kerns Tp,Commercial,0.01254231,ON
+2021,"Killaloe, Hagarty and Richards Tp",Residential,0.01198855,ON
+2021,"Killaloe, Hagarty and Richards Tp",Farmland,0.00299714,ON
+2021,"Killaloe, Hagarty and Richards Tp",Commercial,0.02777913,ON
+2021,"Killaloe, Hagarty and Richards Tp",Industrial,0.03835356,ON
+2021,Killarney M,Residential,0.00950172,ON
+2021,Killarney M,Commercial,0.01499078,ON
+2021,Killarney M,Industrial,0.02075213,ON
+2021,Kincardine M,Residential,0.01303472,ON
+2021,Kincardine M,Farmland,0.00325868,ON
+2021,Kincardine M,Commercial,0.02298647,ON
+2021,Kincardine M,Industrial,0.0289068,ON
+2021,King Tp,Residential,0.0079075,ON
+2021,King Tp,Farmland,0.00197687,ON
+2021,King Tp,Commercial,0.01729547,ON
+2021,King Tp,Industrial,0.01927951,ON
+2021,Kingston C,Residential,0.01159475,ON
+2021,Kingston C,Farmland,0.00239545,ON
+2021,Kingston C,Commercial,0.02872821,ON
+2021,Kingston C,Industrial,0.0352703,ON
+2021,Kingsville T,Residential,0.01354347,ON
+2021,Kingsville T,Farmland,0.00338586,ON
+2021,Kingsville T,Commercial,0.02179911,ON
+2021,Kingsville T,Industrial,0.03213618,ON
+2021,Kirkland Lake T,Residential,0.00806291,ON
+2021,Kirkland Lake T,Residential,0.02019433,ON
+2021,Kirkland Lake T,Commercial,0.04610529,ON
+2021,Kirkland Lake T,Industrial,0.02102106,ON
+2021,Kirkland Lake T,Industrial,0.23356743,ON
+2021,Kitchener C,Residential,0.00964208,ON
+2021,Kitchener C,Farmland,0.00241052,ON
+2021,Kitchener C,Commercial,0.02461857,ON
+2021,Kitchener C,Industrial,0.02461857,ON
+2021,La Vallee Tp,Residential,0.01496583,ON
+2021,La Vallee Tp,Farmland,0.00374146,ON
+2021,La Vallee Tp,Commercial,0.02685238,ON
+2021,La Vallee Tp,Industrial,0.03547281,ON
+2021,LaSalle T,Residential,0.0162713,ON
+2021,LaSalle T,Farmland,0.00406807,ON
+2021,LaSalle T,Commercial,0.02475085,ON
+2021,LaSalle T,Industrial,0.03743518,ON
+2021,Laird Tp,Residential,0.01371085,ON
+2021,Laird Tp,Farmland,0.00342771,ON
+2021,Laird Tp,Commercial,0.02168612,ON
+2021,Laird Tp,Industrial,0.02070191,ON
+2021,Lake of Bays Tp,Residential,0.00622896,ON
+2021,Lake of Bays Tp,Farmland,0.00155727,ON
+2021,Lake of Bays Tp,Commercial,0.01197906,ON
+2021,Lake of Bays Tp,Industrial,0.01316586,ON
+2021,Lake of The Woods Tp,Residential,0.00687,ON
+2021,Lake of The Woods Tp,Farmland,0.0017175,ON
+2021,Lake of The Woods Tp,Commercial,0.0183025,ON
+2021,Lake of The Woods Tp,Industrial,0.01414,ON
+2021,Lakeshore M,Residential,0.0126948,ON
+2021,Lakeshore M,Farmland,0.0031737,ON
+2021,Lakeshore M,Commercial,0.02088081,ON
+2021,Lakeshore M,Industrial,0.03048763,ON
+2021,Lambton Co,Residential,0.00444584,ON
+2021,Lambton Co,Farmland,0.00100476,ON
+2021,Lambton Co,Commercial,0.00723383,ON
+2021,Lambton Co,Industrial,0.00910317,ON
+2021,Lambton Shores M,Residential,0.01100648,ON
+2021,Lambton Shores M,Farmland,0.00252418,ON
+2021,Lambton Shores M,Commercial,0.02421919,ON
+2021,Lambton Shores M,Industrial,0.02820377,ON
+2021,Lanark Co,Residential,0.00371978,ON
+2021,Lanark Co,Farmland,0.00092995,ON
+2021,Lanark Co,Commercial,0.00685529,ON
+2021,Lanark Co,Industrial,0.00941713,ON
+2021,Lanark Highlands Tp,Residential,0.01061172,ON
+2021,Lanark Highlands Tp,Farmland,0.00265293,ON
+2021,Lanark Highlands Tp,Commercial,0.02553696,ON
+2021,Lanark Highlands Tp,Industrial,0.03178822,ON
+2021,Larder Lake Tp,Residential,0.02266445,ON
+2021,Larder Lake Tp,Commercial,0.05064621,ON
+2021,Larder Lake Tp,Industrial,0.05304882,ON
+2021,Latchford T,Residential,0.01176692,ON
+2021,Latchford T,Commercial,0.0290691,ON
+2021,Laurentian Hills T,Residential,0.01270086,ON
+2021,Laurentian Hills T,Farmland,0.00317521,ON
+2021,Laurentian Hills T,Commercial,0.02907176,ON
+2021,Laurentian Hills T,Industrial,0.04037519,ON
+2021,Laurentian Valley Tp,Residential,0.00956092,ON
+2021,Laurentian Valley Tp,Farmland,0.00239023,ON
+2021,Laurentian Valley Tp,Commercial,0.0233737,ON
+2021,Laurentian Valley Tp,Industrial,0.03107367,ON
+2021,Leamington M,Residential,0.01664842,ON
+2021,Leamington M,Farmland,0.0041621,ON
+2021,Leamington M,Commercial,0.0251588,ON
+2021,Leamington M,Industrial,0.03816753,ON
+2021,Leeds and Grenville UCo,Residential,0.00369475,ON
+2021,Leeds and Grenville UCo,Farmland,0.00092369,ON
+2021,Leeds and Grenville UCo,Commercial,0.00497462,ON
+2021,Leeds and Grenville UCo,Industrial,0.00669268,ON
+2021,Leeds and the Thousand Islands Tp,Residential,0.00970433,ON
+2021,Leeds and the Thousand Islands Tp,Farmland,0.00242609,ON
+2021,Leeds and the Thousand Islands Tp,Commercial,0.01980593,ON
+2021,Leeds and the Thousand Islands Tp,Industrial,0.023607,ON
+2021,Limerick Tp,Residential,0.01312219,ON
+2021,Limerick Tp,Commercial,0.02155141,ON
+2021,Limerick Tp,Industrial,0.0218899,ON
+2021,Lincoln T,Residential,0.01194993,ON
+2021,Lincoln T,Farmland,0.00298749,ON
+2021,Lincoln T,Commercial,0.02687754,ON
+2021,Lincoln T,Industrial,0.03620442,ON
+2021,London C,Residential,0.01388283,ON
+2021,London C,Farmland,0.00165262,ON
+2021,London C,Commercial,0.03239391,ON
+2021,London C,Industrial,0.03239391,ON
+2021,Loyalist Tp,Residential,0.01474647,ON
+2021,Loyalist Tp,Farmland,0.00368662,ON
+2021,Loyalist Tp,Commercial,0.02753391,ON
+2021,Loyalist Tp,Industrial,0.03747974,ON
+2021,Lucan Biddulph Tp,Residential,0.0117602,ON
+2021,Lucan Biddulph Tp,Farmland,0.00294005,ON
+2021,Lucan Biddulph Tp,Commercial,0.02051256,ON
+2021,Lucan Biddulph Tp,Industrial,0.02665273,ON
+2021,Macdonald Meredith et al Tp,Residential,0.0164096,ON
+2021,Macdonald Meredith et al Tp,Farmland,0.0041024,ON
+2021,Macdonald Meredith et al Tp,Commercial,0.02727907,ON
+2021,Macdonald Meredith et al Tp,Industrial,0.02616756,ON
+2021,Machar Tp,Residential,0.00950772,ON
+2021,Machar Tp,Farmland,0.00237693,ON
+2021,Machar Tp,Commercial,0.01541646,ON
+2021,Machar Tp,Industrial,0.01413503,ON
+2021,Machin Tp,Residential,0.0117425,ON
+2021,Machin Tp,Farmland,0.00293562,ON
+2021,Machin Tp,Commercial,0.02527193,ON
+2021,Machin Tp,Industrial,0.01684088,ON
+2021,Magnetawan M,Residential,0.00877042,ON
+2021,Magnetawan M,Farmland,0.00219261,ON
+2021,Magnetawan M,Commercial,0.01542656,ON
+2021,Magnetawan M,Industrial,0.01765725,ON
+2021,Malahide Tp,Residential,0.01454382,ON
+2021,Malahide Tp,Farmland,0.00337568,ON
+2021,Malahide Tp,Commercial,0.03011143,ON
+2021,Malahide Tp,Industrial,0.03775705,ON
+2021,Mapleton Tp,Residential,0.01241057,ON
+2021,Mapleton Tp,Farmland,0.00310264,ON
+2021,Mapleton Tp,Commercial,0.02502292,ON
+2021,Mapleton Tp,Industrial,0.03491335,ON
+2021,Marathon T,Residential,0.02778099,ON
+2021,Marathon T,Commercial,0.04161374,ON
+2021,Marathon T,Industrial,0.06786473,ON
+2021,Markham C,Residential,0.00632908,ON
+2021,Markham C,Farmland,0.00158227,ON
+2021,Markham C,Commercial,0.01519286,ON
+2021,Markham C,Industrial,0.01668585,ON
+2021,Markstay-Warren M,Residential,0.01371209,ON
+2021,Markstay-Warren M,Farmland,0.00342802,ON
+2021,Markstay-Warren M,Commercial,0.03295711,ON
+2021,Markstay-Warren M,Industrial,0.02828239,ON
+2021,Marmora and Lake M,Residential,0.01192465,ON
+2021,Marmora and Lake M,Farmland,0.00298117,ON
+2021,Marmora and Lake M,Commercial,0.02023412,ON
+2021,Marmora and Lake M,Industrial,0.02053764,ON
+2021,Mattawa T,Residential,0.02095583,ON
+2021,Mattawa T,Commercial,0.03983471,ON
+2021,Mattawa T,Industrial,0.05093074,ON
+2021,Mattawan M,Residential,0.01526399,ON
+2021,Mattawan M,Commercial,0.02440393,ON
+2021,Mattawan M,Industrial,0.02434221,ON
+2021,Mattice - Val Cote Tp,Residential,0.01694666,ON
+2021,Mattice - Val Cote Tp,Commercial,0.04117411,ON
+2021,Mattice - Val Cote Tp,Industrial,0.03485416,ON
+2021,McDougall Tp,Residential,0.00724488,ON
+2021,McDougall Tp,Farmland,0.00181122,ON
+2021,McDougall Tp,Commercial,0.01568449,ON
+2021,McDougall Tp,Industrial,0.02368045,ON
+2021,McKellar Tp,Residential,0.00668094,ON
+2021,McKellar Tp,Farmland,0.00167024,ON
+2021,McKellar Tp,Commercial,0.01446604,ON
+2021,McKellar Tp,Industrial,0.01446604,ON
+2021,McMurrich-Monteith Tp,Residential,0.008334,ON
+2021,McMurrich-Monteith Tp,Commercial,0.01681985,ON
+2021,McMurrich-Monteith Tp,Industrial,0.00958381,ON
+2021,McNab-Braeside Tp,Residential,0.01140302,ON
+2021,McNab-Braeside Tp,Farmland,0.00285075,ON
+2021,McNab-Braeside Tp,Commercial,0.02671656,ON
+2021,McNab-Braeside Tp,Industrial,0.03669174,ON
+2021,Meaford M,Residential,0.01337284,ON
+2021,Meaford M,Farmland,0.00296424,ON
+2021,Meaford M,Commercial,0.02415898,ON
+2021,Meaford M,Industrial,0.03048425,ON
+2021,Melancthon Tp,Residential,0.0100045,ON
+2021,Melancthon Tp,Farmland,0.00224689,ON
+2021,Melancthon Tp,Commercial,0.01913889,ON
+2021,Melancthon Tp,Industrial,0.02743034,ON
+2021,Merrickville-Wolford V,Residential,0.01333386,ON
+2021,Merrickville-Wolford V,Farmland,0.00333347,ON
+2021,Merrickville-Wolford V,Commercial,0.02469273,ON
+2021,Merrickville-Wolford V,Industrial,0.03018153,ON
+2021,Middlesex Centre M,Residential,0.01164099,ON
+2021,Middlesex Centre M,Farmland,0.00291025,ON
+2021,Middlesex Centre M,Commercial,0.02037607,ON
+2021,Middlesex Centre M,Industrial,0.02644469,ON
+2021,Middlesex Co,Residential,0.00397792,ON
+2021,Middlesex Co,Farmland,0.00099448,ON
+2021,Middlesex Co,Commercial,0.00455432,ON
+2021,Middlesex Co,Industrial,0.00694187,ON
+2021,Milton T,Residential,0.00681981,ON
+2021,Milton T,Farmland,0.00144046,ON
+2021,Milton T,Commercial,0.01541012,ON
+2021,Milton T,Industrial,0.0198594,ON
+2021,Minden Hills Tp,Residential,0.00759397,ON
+2021,Minden Hills Tp,Farmland,0.00189849,ON
+2021,Minden Hills Tp,Commercial,0.01779104,ON
+2021,Minden Hills Tp,Industrial,0.0192185,ON
+2021,Minto T,Residential,0.01307694,ON
+2021,Minto T,Farmland,0.00326923,ON
+2021,Minto T,Commercial,0.02601649,ON
+2021,Minto T,Industrial,0.03651266,ON
+2021,Mississauga C,Residential,0.00803062776,ON
+2021,Mississauga C,Farmland,0.00200766,ON
+2021,Mississauga C,Commercial,0.0186613028,ON
+2021,Mississauga C,Industrial,0.01929865035,ON
+2021,Mississippi Mills M,Residential,0.0106195,ON
+2021,Mississippi Mills M,Farmland,0.00265488,ON
+2021,Mississippi Mills M,Commercial,0.0255513,ON
+2021,Mississippi Mills M,Industrial,0.03181131,ON
+2021,Mono T,Residential,0.00875629,ON
+2021,Mono T,Farmland,0.00197229,ON
+2021,Mono T,Commercial,0.01761608,ON
+2021,Mono T,Industrial,0.02468627,ON
+2021,Montague Tp,Residential,0.01256534,ON
+2021,Montague Tp,Farmland,0.00314134,ON
+2021,Montague Tp,Commercial,0.02913734,ON
+2021,Montague Tp,Industrial,0.03673746,ON
+2021,Moonbeam Tp,Residential,0.01908662,ON
+2021,Moonbeam Tp,Farmland,0.00477165,ON
+2021,Moonbeam Tp,Commercial,0.03019274,ON
+2021,Moonbeam Tp,Industrial,0.02400228,ON
+2021,Moosonee T,Residential,0.02288166,ON
+2021,Moosonee T,Commercial,0.03936558,ON
+2021,Morley Tp,Residential,0.01227399,ON
+2021,Morley Tp,Farmland,0.0030685,ON
+2021,Morley Tp,Commercial,0.02753215,ON
+2021,Morley Tp,Industrial,0.02061839,ON
+2021,Morris-Turnberry M,Residential,0.01399901,ON
+2021,Morris-Turnberry M,Farmland,0.00349975,ON
+2021,Morris-Turnberry M,Commercial,0.0225159,ON
+2021,Morris-Turnberry M,Industrial,0.0225159,ON
+2021,Mulmur Tp,Residential,0.00994937,ON
+2021,Mulmur Tp,Farmland,0.00223476,ON
+2021,Mulmur Tp,Commercial,0.01907163,ON
+2021,Mulmur Tp,Industrial,0.02730914,ON
+2021,Muskoka D,Residential,0.0029099,ON
+2021,Muskoka D,Farmland,0.0007275,ON
+2021,Muskoka D,Commercial,0.0032009,ON
+2021,Muskoka D,Industrial,0.0032009,ON
+2021,Muskoka Lakes Tp,Residential,0.00567019,ON
+2021,Muskoka Lakes Tp,Farmland,0.00141757,ON
+2021,Muskoka Lakes Tp,Commercial,0.01136441,ON
+2021,Muskoka Lakes Tp,Industrial,0.01255121,ON
+2021,Nairn and Hyman Tp,Residential,0.01409113,ON
+2021,Nairn and Hyman Tp,Commercial,0.03141003,ON
+2021,Nairn and Hyman Tp,Industrial,0.06027211,ON
+2021,Neebing M,Residential,0.00927506,ON
+2021,Neebing M,Farmland,0.00231877,ON
+2021,Neebing M,Commercial,0.0124871,ON
+2021,Neebing M,Industrial,0.01731957,ON
+2021,New Tecumseth T,Residential,0.00949455,ON
+2021,New Tecumseth T,Farmland,0.00237364,ON
+2021,New Tecumseth T,Commercial,0.01853507,ON
+2021,New Tecumseth T,Industrial,0.01829772,ON
+2021,Newbury V,Residential,0.01390313,ON
+2021,Newbury V,Farmland,0.00347578,ON
+2021,Newbury V,Commercial,0.022966,ON
+2021,Newbury V,Industrial,0.03039235,ON
+2021,Newmarket T,Residential,0.00794819,ON
+2021,Newmarket T,Farmland,0.00198705,ON
+2021,Newmarket T,Commercial,0.01734967,ON
+2021,Newmarket T,Industrial,0.01934637,ON
+2021,Niagara R,Residential,0.00587571,ON
+2021,Niagara R,Farmland,0.00146893,ON
+2021,Niagara R,Commercial,0.01019377,ON
+2021,Niagara R,Industrial,0.01545312,ON
+2021,Niagara-on-the-Lake T,Residential,0.00960367,ON
+2021,Niagara-on-the-Lake T,Farmland,0.00240092,ON
+2021,Niagara-on-the-Lake T,Commercial,0.02280701,ON
+2021,Niagara-on-the-Lake T,Industrial,0.03003375,ON
+2021,Nipissing Tp,Residential,0.00877915,ON
+2021,Nipissing Tp,Farmland,0.00219479,ON
+2021,Nipissing Tp,Commercial,0.0153844,ON
+2021,Nipissing Tp,Industrial,0.00443041,ON
+2021,Norfolk County,Residential,0.013119,ON
+2021,Norfolk County,Farmland,0.003048,ON
+2021,Norfolk County,Commercial,0.028419,ON
+2021,Norfolk County,Industrial,0.028419,ON
+2021,North Bay C,Residential,0.01568182,ON
+2021,North Bay C,Farmland,0.00250527,ON
+2021,North Bay C,Commercial,0.03540542,ON
+2021,North Bay C,Industrial,0.02861255,ON
+2021,North Dumfries Tp,Residential,0.00901585,ON
+2021,North Dumfries Tp,Farmland,0.00225396,ON
+2021,North Dumfries Tp,Commercial,0.02339741,ON
+2021,North Dumfries Tp,Industrial,0.02339741,ON
+2021,North Dundas Tp,Residential,0.01131873,ON
+2021,North Dundas Tp,Farmland,0.00282968,ON
+2021,North Dundas Tp,Commercial,0.02479504,ON
+2021,North Dundas Tp,Industrial,0.02899838,ON
+2021,North Frontenac Tp,Residential,0.01020095,ON
+2021,North Frontenac Tp,Farmland,0.00255024,ON
+2021,North Frontenac Tp,Commercial,0.01747095,ON
+2021,North Frontenac Tp,Industrial,0.01747095,ON
+2021,North Glengarry Tp,Residential,0.01252544,ON
+2021,North Glengarry Tp,Farmland,0.00313136,ON
+2021,North Glengarry Tp,Commercial,0.02676684,ON
+2021,North Glengarry Tp,Industrial,0.03148835,ON
+2021,North Grenville M,Residential,0.01122613,ON
+2021,North Grenville M,Farmland,0.00280653,ON
+2021,North Grenville M,Commercial,0.02185488,ON
+2021,North Grenville M,Industrial,0.02636358,ON
+2021,North Huron Tp,Residential,0.01545798,ON
+2021,North Huron Tp,Farmland,0.00386449,ON
+2021,North Huron Tp,Commercial,0.02412078,ON
+2021,North Huron Tp,Industrial,0.02412078,ON
+2021,North Kawartha Tp,Residential,0.00840311,ON
+2021,North Kawartha Tp,Farmland,0.00210078,ON
+2021,North Kawartha Tp,Commercial,0.01635079,ON
+2021,North Kawartha Tp,Industrial,0.01940657,ON
+2021,North Middlesex M,Residential,0.01343394,ON
+2021,North Middlesex M,Farmland,0.00335848,ON
+2021,North Middlesex M,Commercial,0.02242882,ON
+2021,North Middlesex M,Industrial,0.02957357,ON
+2021,North Stormont Tp,Residential,0.01078956,ON
+2021,North Stormont Tp,Farmland,0.00269739,ON
+2021,North Stormont Tp,Commercial,0.02393036,ON
+2021,North Stormont Tp,Industrial,0.02790647,ON
+2021,Northeastern Manitoulin & The Isl T,Residential,0.00739605,ON
+2021,Northeastern Manitoulin & The Isl T,Farmland,0.00184901,ON
+2021,Northeastern Manitoulin & The Isl T,Commercial,0.01717027,ON
+2021,Northeastern Manitoulin & The Isl T,Industrial,0.01924685,ON
+2021,Northeastern Manitoulin & The Isl T,Residential,0.01316336,ON
+2021,Northeastern Manitoulin & The Isl T,Farmland,,ON
+2021,Northeastern Manitoulin & The Isl T,Commercial,0.02539964,ON
+2021,Northeastern Manitoulin & The Isl T,Industrial,0.02951785,ON
+2021,Northeastern Manitoulin & The Isl T,Residential,0.01182171,ON
+2021,Northeastern Manitoulin & The Isl T,Farmland,0.00295543,ON
+2021,Northeastern Manitoulin & The Isl T,Commercial,0.02348524,ON
+2021,Northeastern Manitoulin & The Isl T,Industrial,0.02712851,ON
+2021,Northern Bruce Peninsula M,Residential,0.00984758,ON
+2021,Northern Bruce Peninsula M,Farmland,0.0024619,ON
+2021,Northern Bruce Peninsula M,Commercial,0.01905641,ON
+2021,Northern Bruce Peninsula M,Industrial,0.02333664,ON
+2021,Northumberland Co,Residential,0.00478717,ON
+2021,Northumberland Co,Farmland,0.00119679,ON
+2021,Northumberland Co,Commercial,0.00718076,ON
+2021,Northumberland Co,Industrial,0.01005306,ON
+2021,Norwich Tp,Residential,0.01086805,ON
+2021,Norwich Tp,Farmland,0.00241539,ON
+2021,Norwich Tp,Commercial,0.02655911,ON
+2021,Norwich Tp,Industrial,0.03335907,ON
+2021,O'Connor Tp,Residential,0.01195006,ON
+2021,O'Connor Tp,Farmland,0.00298752,ON
+2021,O'Connor Tp,Commercial,0.02038606,ON
+2021,O'Connor Tp,Industrial,0.02026207,ON
+2021,Oakville T,Residential,0.00721512,ON
+2021,Oakville T,Farmland,0.00151952,ON
+2021,Oakville T,Commercial,0.0159859,ON
+2021,Oakville T,Industrial,0.02068588,ON
+2021,Oil Springs V,Residential,0.01602384,ON
+2021,Oil Springs V,Farmland,0.00365811,ON
+2021,Oil Springs V,Commercial,0.03238295,ON
+2021,Oil Springs V,Industrial,0.03847718,ON
+2021,Oliver Paipoonge M,Residential,0.01098961,ON
+2021,Oliver Paipoonge M,Farmland,0.0027474,ON
+2021,Oliver Paipoonge M,Commercial,0.0229989,ON
+2021,Oliver Paipoonge M,Industrial,0.02972052,ON
+2021,Opasatika Tp,Residential,0.01918988,ON
+2021,Opasatika Tp,Commercial,0.02938965,ON
+2021,Opasatika Tp,Industrial,0.03904254,ON
+2021,Orangeville T,Residential,0.01333837,ON
+2021,Orangeville T,Farmland,0.00298034,ON
+2021,Orangeville T,Commercial,0.02320622,ON
+2021,Orangeville T,Industrial,0.03475953,ON
+2021,Orillia C,Residential,0.01385466,ON
+2021,Orillia C,Farmland,0.00346366,ON
+2021,Orillia C,Commercial,0.02764131,ON
+2021,Orillia C,Commercial,0.0588113,ON
+2021,Orillia C,Industrial,0.03150202,ON
+2021,Oro-Medonte Tp,Residential,0.00874723,ON
+2021,Oro-Medonte Tp,Farmland,0.00218681,ON
+2021,Oro-Medonte Tp,Commercial,0.01762162,ON
+2021,Oro-Medonte Tp,Industrial,0.01740655,ON
+2021,Oshawa C,Residential,0.01304741,ON
+2021,Oshawa C,Farmland,0.00268599,ON
+2021,Oshawa C,Commercial,0.02550024,ON
+2021,Oshawa C,Industrial,0.03210548,ON
+2021,Otonabee-South Monaghan Tp,Residential,0.01068087,ON
+2021,Otonabee-South Monaghan Tp,Farmland,0.00267022,ON
+2021,Otonabee-South Monaghan Tp,Commercial,0.01885314,ON
+2021,Otonabee-South Monaghan Tp,Industrial,0.02292161,ON
+2021,Ottawa C,Residential,0.00682126,ON
+2021,Ottawa C,Farmland,0.00144075,ON
+2021,Ottawa C,Commercial,0.01851096,ON
+2021,Ottawa C,Industrial,0.02213561,ON
+2021,Owen Sound C,Residential,0.01767431,ON
+2021,Owen Sound C,Farmland,0.00441858,ON
+2021,Owen Sound C,Commercial,0.03649427,ON
+2021,Owen Sound C,Industrial,0.03836023,ON
+2021,Oxford Co,Residential,0.00367037,ON
+2021,Oxford Co,Farmland,0.00079904,ON
+2021,Oxford Co,Commercial,0.00698031,ON
+2021,Oxford Co,Industrial,0.00965307,ON
+2021,Papineau-Cameron Tp,Residential,0.01256877,ON
+2021,Papineau-Cameron Tp,Farmland,0.00314219,ON
+2021,Papineau-Cameron Tp,Commercial,0.02094265,ON
+2021,Papineau-Cameron Tp,Industrial,0.03123851,ON
+2021,Parry Sound T,Residential,0.01574244,ON
+2021,Parry Sound T,Farmland,0.00393561,ON
+2021,Parry Sound T,Commercial,0.03218094,ON
+2021,Parry Sound T,Industrial,0.02805206,ON
+2021,Peel R,Residential,0.00377642,ON
+2021,Peel R,Farmland,0.00094411,ON
+2021,Peel R,Commercial,0.00489839,ON
+2021,Peel R,Industrial,0.00555134,ON
+2021,Peel R,Residential,0.0027519,ON
+2021,Peel R,Farmland,0.00047002,ON
+2021,Peel R,Commercial,0.00370828,ON
+2021,Peel R,Industrial,0.00437837,ON
+2021,Peel R,Residential,0.00360608,ON
+2021,Peel R,Farmland,0.00090152,ON
+2021,Peel R,Commercial,0.00547034,ON
+2021,Peel R,Industrial,0.00582389,ON
+2021,Pelee Tp,Residential,0.0164551,ON
+2021,Pelee Tp,Farmland,0.00411378,ON
+2021,Pelee Tp,Commercial,0.02947873,ON
+2021,Pelee Tp,Industrial,0.02342511,ON
+2021,Pelham T,Residential,0.01325985,ON
+2021,Pelham T,Farmland,0.00331497,ON
+2021,Pelham T,Commercial,0.02915011,ON
+2021,Pelham T,Industrial,0.0396495,ON
+2021,Pembroke C,Residential,0.01630294,ON
+2021,Pembroke C,Farmland,0.00407574,ON
+2021,Pembroke C,Commercial,0.03805042,ON
+2021,Pembroke C,Industrial,0.04765283,ON
+2021,Penetanguishene T,Residential,0.01439303,ON
+2021,Penetanguishene T,Farmland,0.00359826,ON
+2021,Penetanguishene T,Commercial,0.02452248,ON
+2021,Penetanguishene T,Industrial,0.02413917,ON
+2021,Perry Tp,Residential,0.00832433,ON
+2021,Perry Tp,Farmland,0.00208108,ON
+2021,Perry Tp,Commercial,0.0139745,ON
+2021,Perry Tp,Industrial,0.01083061,ON
+2021,Perth Co,Residential,0.00264558,ON
+2021,Perth Co,Farmland,0.0006614,ON
+2021,Perth Co,Commercial,0.00329877,ON
+2021,Perth Co,Industrial,0.00520968,ON
+2021,Perth East Tp,Residential,0.00791113,ON
+2021,Perth East Tp,Farmland,0.00197779,ON
+2021,Perth East Tp,Commercial,0.01675663,ON
+2021,Perth East Tp,Industrial,0.02136573,ON
+2021,Perth South Tp,Residential,0.00840092,ON
+2021,Perth South Tp,Farmland,0.00210024,ON
+2021,Perth South Tp,Commercial,0.01736735,ON
+2021,Perth South Tp,Industrial,0.02233022,ON
+2021,Perth T,Residential,0.0136325,ON
+2021,Perth T,Farmland,0.00340813,ON
+2021,Perth T,Commercial,0.03110404,ON
+2021,Perth T,Industrial,0.03943912,ON
+2021,Petawawa T,Residential,0.00941888,ON
+2021,Petawawa T,Farmland,0.00235472,ON
+2021,Petawawa T,Commercial,0.02311595,ON
+2021,Petawawa T,Industrial,0.03078682,ON
+2021,Peterborough C,Residential,0.01448245,ON
+2021,Peterborough C,Farmland,0.00362061,ON
+2021,Peterborough C,Commercial,0.02822868,ON
+2021,Peterborough C,Industrial,0.02822868,ON
+2021,Peterborough Co,Residential,0.00335887,ON
+2021,Peterborough Co,Farmland,0.00083972,ON
+2021,Peterborough Co,Commercial,0.00369005,ON
+2021,Peterborough Co,Industrial,0.0051834,ON
+2021,Petrolia T,Residential,0.01558271,ON
+2021,Petrolia T,Farmland,0.00355841,ON
+2021,Petrolia T,Commercial,0.03166518,ON
+2021,Petrolia T,Industrial,0.03757393,ON
+2021,Pickle Lake Tp,Residential,0.03246346,ON
+2021,Pickle Lake Tp,Commercial,0.0526256,ON
+2021,Plummer Additional Tp,Residential,0.01574347,ON
+2021,Plummer Additional Tp,Farmland,0.00393587,ON
+2021,Plummer Additional Tp,Commercial,0.02621008,ON
+2021,Plummer Additional Tp,Industrial,0.03073281,ON
+2021,Plympton-Wyoming T,Residential,0.0125315,ON
+2021,Plympton-Wyoming T,Farmland,0.00286884,ON
+2021,Plympton-Wyoming T,Commercial,0.02670055,ON
+2021,Plympton-Wyoming T,Industrial,0.03132635,ON
+2021,Point Edward V,Residential,0.01249685,ON
+2021,Point Edward V,Commercial,0.02664417,ON
+2021,Point Edward V,Industrial,0.03125541,ON
+2021,Port Colborne C,Residential,0.01670008,ON
+2021,Port Colborne C,Farmland,0.00417502,ON
+2021,Port Colborne C,Commercial,0.03511857,ON
+2021,Port Colborne C,Industrial,0.04869731,ON
+2021,Port Hope M,Residential,0.01576274,ON
+2021,Port Hope M,Farmland,0.00394068,ON
+2021,Port Hope M,Commercial,0.03014912,ON
+2021,Port Hope M,Industrial,0.03868876,ON
+2021,Port Hope M,Residential,0.01275588,ON
+2021,Port Hope M,Farmland,0.00318897,ON
+2021,Port Hope M,Commercial,0.02563883,ON
+2021,Port Hope M,Industrial,0.03237436,ON
+2021,Powassan M,Residential,0.01166123,ON
+2021,Powassan M,Farmland,0.00291531,ON
+2021,Powassan M,Commercial,0.02353481,ON
+2021,Powassan M,Industrial,0.02653035,ON
+2021,Prescott ST,Residential,0.01531478,ON
+2021,Prescott ST,Commercial,0.03491061,ON
+2021,Prescott ST,Industrial,0.04505397,ON
+2021,Prescott and Russell UCo,Residential,0.00413441,ON
+2021,Prescott and Russell UCo,Farmland,0.0010336,ON
+2021,Prescott and Russell UCo,Commercial,0.00595768,ON
+2021,Prescott and Russell UCo,Industrial,0.01011645,ON
+2021,Prince Edward County C,Residential,0.0106299,ON
+2021,Prince Edward County C,Farmland,0.00265748,ON
+2021,Prince Edward County C,Commercial,0.01718395,ON
+2021,Prince Edward County C,Industrial,0.02144431,ON
+2021,Prince Tp,Residential,0.01056135,ON
+2021,Prince Tp,Farmland,0.00264034,ON
+2021,Prince Tp,Commercial,0.02079856,ON
+2021,Prince Tp,Industrial,0.02560387,ON
+2021,Puslinch Tp,Residential,0.00945721,ON
+2021,Puslinch Tp,Farmland,0.0023643,ON
+2021,Puslinch Tp,Commercial,0.02061946,ON
+2021,Puslinch Tp,Industrial,0.02782529,ON
+2021,Quinte West C,Residential,0.01256982,ON
+2021,Quinte West C,Farmland,0.00314245,ON
+2021,Quinte West C,Commercial,0.02578476,ON
+2021,Quinte West C,Industrial,0.0358034,ON
+2021,Rainy River T,Residential,0.0259862,ON
+2021,Rainy River T,Farmland,0.00649655,ON
+2021,Rainy River T,Commercial,0.04934329,ON
+2021,Rainy River T,Industrial,0.05876888,ON
+2021,Ramara Tp,Residential,0.00887652,ON
+2021,Ramara Tp,Farmland,0.00221913,ON
+2021,Ramara Tp,Commercial,0.01777965,ON
+2021,Ramara Tp,Industrial,0.01756073,ON
+2021,Red Lake M,Residential,0.01516713,ON
+2021,Red Lake M,Commercial,0.03580152,ON
+2021,Red Lake M,Industrial,0.03789938,ON
+2021,Red Lake M,Industrial,0.061397,ON
+2021,Red Rock Tp,Residential,0.03833075,ON
+2021,Red Rock Tp,Commercial,0.04928083,ON
+2021,Red Rock Tp,Industrial,0.10558597,ON
+2021,Renfrew Co,Residential,0.00375065,ON
+2021,Renfrew Co,Farmland,0.00093766,ON
+2021,Renfrew Co,Commercial,0.0068063,ON
+2021,Renfrew Co,Industrial,0.01051561,ON
+2021,Renfrew T,Residential,0.01540503,ON
+2021,Renfrew T,Farmland,0.00385125,ON
+2021,Renfrew T,Commercial,0.03397901,ON
+2021,Renfrew T,Industrial,0.04772121,ON
+2021,Richmond Hill C,Residential,0.00659549,ON
+2021,Richmond Hill C,Farmland,0.00164887,ON
+2021,Richmond Hill C,Commercial,0.01554774,ON
+2021,Richmond Hill C,Industrial,0.01712362,ON
+2021,Rideau Lakes Tp,Residential,0.01003582,ON
+2021,Rideau Lakes Tp,Farmland,0.00250896,ON
+2021,Rideau Lakes Tp,Commercial,0.02025225,ON
+2021,Rideau Lakes Tp,Industrial,0.02420745,ON
+2021,Russell Tp,Residential,0.0108127,ON
+2021,Russell Tp,Farmland,0.00270317,ON
+2021,Russell Tp,Commercial,0.02217636,ON
+2021,Russell Tp,Industrial,0.03151375,ON
+2021,Ryerson Tp,Residential,0.01293456,ON
+2021,Ryerson Tp,Farmland,0.00323364,ON
+2021,Ryerson Tp,Commercial,0.01946654,ON
+2021,Ryerson Tp,Industrial,0.02332143,ON
+2021,Sables-Spanish Rivers Tp,Residential,0.01464023,ON
+2021,Sables-Spanish Rivers Tp,Farmland,0.00366006,ON
+2021,Sables-Spanish Rivers Tp,Commercial,0.02322125,ON
+2021,Sables-Spanish Rivers Tp,Industrial,0.03091302,ON
+2021,Sarnia C,Residential,0.0147711,ON
+2021,Sarnia C,Farmland,0.00337499,ON
+2021,Sarnia C,Commercial,0.03034461,ON
+2021,Sarnia C,Industrial,0.0359121,ON
+2021,Saugeen Shores T,Residential,0.01193599,ON
+2021,Saugeen Shores T,Farmland,0.002984,ON
+2021,Saugeen Shores T,Commercial,0.02163163,ON
+2021,Saugeen Shores T,Industrial,0.02698656,ON
+2021,Sault Ste Marie C,Residential,0.01528721,ON
+2021,Sault Ste Marie C,Farmland,0.00382181,ON
+2021,Sault Ste Marie C,Commercial,0.03711536,ON
+2021,Sault Ste Marie C,Industrial,0.06969904,ON
+2021,Scugog Tp,Residential,0.01080336,ON
+2021,Scugog Tp,Farmland,0.00223718,ON
+2021,Scugog Tp,Commercial,0.02224636,ON
+2021,Scugog Tp,Industrial,0.02756464,ON
+2021,Seguin Tp,Residential,0.00504196,ON
+2021,Seguin Tp,Farmland,0.00126049,ON
+2021,Seguin Tp,Commercial,0.01041585,ON
+2021,Seguin Tp,Industrial,0.01674003,ON
+2021,Selwyn Tp,Residential,0.007213,ON
+2021,Selwyn Tp,Farmland,0.00180325,ON
+2021,Selwyn Tp,Commercial,0.01504334,ON
+2021,Selwyn Tp,Industrial,0.01757,ON
+2021,Severn Tp,Residential,0.00769892,ON
+2021,Severn Tp,Farmland,0.00192473,ON
+2021,Severn Tp,Commercial,0.01634027,ON
+2021,Severn Tp,Industrial,0.01615644,ON
+2021,Shelburne T,Residential,0.01258259,ON
+2021,Shelburne T,Farmland,0.00281407,ON
+2021,Shelburne T,Commercial,0.02228417,ON
+2021,Shelburne T,Industrial,0.03309802,ON
+2021,Shuniah M,Residential,0.00777227,ON
+2021,Shuniah M,Commercial,0.01948552,ON
+2021,Shuniah M,Industrial,0.02521717,ON
+2021,Simcoe Co,Residential,0.00273563,ON
+2021,Simcoe Co,Farmland,0.00068391,ON
+2021,Simcoe Co,Commercial,0.00334376,ON
+2021,Simcoe Co,Industrial,0.00326224,ON
+2021,Sioux Narrows-Nestor Falls Tp,Residential,0.00852674,ON
+2021,Sioux Narrows-Nestor Falls Tp,Commercial,0.01708693,ON
+2021,Sioux Narrows-Nestor Falls Tp,Industrial,0.01558619,ON
+2021,Smiths Falls ST,Residential,0.0183177,ON
+2021,Smiths Falls ST,Farmland,0.00457943,ON
+2021,Smiths Falls ST,Commercial,0.04180638,ON
+2021,Smiths Falls ST,Industrial,0.04682145,ON
+2021,Smooth Rock Falls T,Residential,0.0214496,ON
+2021,Smooth Rock Falls T,Commercial,0.04540788,ON
+2021,Smooth Rock Falls T,Industrial,0.02075176,ON
+2021,South Algonquin Tp,Residential,0.01011681,ON
+2021,South Algonquin Tp,Farmland,0.0025292,ON
+2021,South Algonquin Tp,Commercial,0.02196381,ON
+2021,South Algonquin Tp,Industrial,0.03138331,ON
+2021,South Bruce M,Residential,0.01348015,ON
+2021,South Bruce M,Farmland,0.00337004,ON
+2021,South Bruce M,Commercial,0.02353573,ON
+2021,South Bruce M,Industrial,0.02968528,ON
+2021,South Dundas Tp,Residential,0.01248583,ON
+2021,South Dundas Tp,Farmland,0.00312146,ON
+2021,South Dundas Tp,Commercial,0.02670211,ON
+2021,South Dundas Tp,Industrial,0.03140661,ON
+2021,South Frontenac Tp,Residential,0.00943287,ON
+2021,South Frontenac Tp,Farmland,0.00235822,ON
+2021,South Frontenac Tp,Commercial,0.01670287,ON
+2021,South Frontenac Tp,Industrial,0.01670287,ON
+2021,South Glengarry Tp,Residential,0.01210316,ON
+2021,South Glengarry Tp,Farmland,0.00302579,ON
+2021,South Glengarry Tp,Commercial,0.02607682,ON
+2021,South Glengarry Tp,Industrial,0.030617,ON
+2021,South Huron M,Residential,0.01188708,ON
+2021,South Huron M,Farmland,0.00297176,ON
+2021,South Huron M,Commercial,0.02019278,ON
+2021,South Huron M,Industrial,0.02019278,ON
+2021,South Huron M,Residential,0.01301602,ON
+2021,South Huron M,Farmland,0.003254,ON
+2021,South Huron M,Commercial,0.02143462,ON
+2021,South Huron M,Industrial,0.02143462,ON
+2021,South River V,Residential,0.01776692,ON
+2021,South River V,Commercial,0.02804562,ON
+2021,South River V,Industrial,0.02601987,ON
+2021,South Stormont Tp,Residential,0.01204619,ON
+2021,South Stormont Tp,Farmland,0.00301147,ON
+2021,South Stormont Tp,Commercial,0.0259832,ON
+2021,South Stormont Tp,Industrial,0.03049863,ON
+2021,South-West Oxford Tp,Residential,0.01040949,ON
+2021,South-West Oxford Tp,Farmland,0.00231557,ON
+2021,South-West Oxford Tp,Commercial,0.02568701,ON
+2021,South-West Oxford Tp,Industrial,0.03215306,ON
+2021,Southgate Tp,Residential,0.0130106,ON
+2021,Southgate Tp,Farmland,0.00288527,ON
+2021,Southgate Tp,Commercial,0.02368919,ON
+2021,Southgate Tp,Industrial,0.02982098,ON
+2021,Southwest Middlesex M,Residential,0.01418959,ON
+2021,Southwest Middlesex M,Farmland,0.0035474,ON
+2021,Southwest Middlesex M,Commercial,0.02329396,ON
+2021,Southwest Middlesex M,Industrial,0.03089225,ON
+2021,Southwold Tp,Residential,0.0129223,ON
+2021,Southwold Tp,Farmland,0.00300273,ON
+2021,Southwold Tp,Commercial,0.02745603,ON
+2021,Southwold Tp,Industrial,0.034149,ON
+2021,Spanish T,Residential,0.01542846,ON
+2021,Spanish T,Commercial,0.02408831,ON
+2021,Spanish T,Industrial,0.02408831,ON
+2021,Springwater Tp,Residential,0.00824282,ON
+2021,Springwater Tp,Farmland,0.00206071,ON
+2021,Springwater Tp,Commercial,0.01700508,ON
+2021,Springwater Tp,Industrial,0.01680504,ON
+2021,St Catharines C,Residential,0.01288528,ON
+2021,St Catharines C,Farmland,0.00322132,ON
+2021,St Catharines C,Commercial,0.02850028,ON
+2021,St Catharines C,Industrial,0.03866439,ON
+2021,St Clair Tp,Residential,0.01161075,ON
+2021,St Clair Tp,Farmland,0.00266075,ON
+2021,St Clair Tp,Commercial,0.0252024,ON
+2021,St Clair Tp,Industrial,0.02944105,ON
+2021,St Joseph Tp,Residential,0.0113918,ON
+2021,St Joseph Tp,Farmland,0.00284795,ON
+2021,St Joseph Tp,Commercial,0.01855361,ON
+2021,St Joseph Tp,Industrial,0.01964798,ON
+2021,St Thomas C,Residential,0.0155319,ON
+2021,St Thomas C,Farmland,0.00388297,ON
+2021,St Thomas C,Commercial,0.03389955,ON
+2021,St Thomas C,Industrial,0.04036902,ON
+2021,St-Charles M,Residential,0.01400269,ON
+2021,St-Charles M,Farmland,0.00350067,ON
+2021,St-Charles M,Commercial,0.02572727,ON
+2021,Stone Mills Tp,Residential,0.01290457,ON
+2021,Stone Mills Tp,Farmland,0.00322615,ON
+2021,Stone Mills Tp,Commercial,0.02492308,ON
+2021,Stone Mills Tp,Industrial,0.03348282,ON
+2021,"Stormont, Dundas and Glengarry UCo",Residential,0.00578267,ON
+2021,"Stormont, Dundas and Glengarry UCo",Farmland,0.00144567,ON
+2021,"Stormont, Dundas and Glengarry UCo",Commercial,0.00944903,ON
+2021,"Stormont, Dundas and Glengarry UCo",Industrial,0.01193214,ON
+2021,Strathroy-Caradoc M,Residential,0.01242719,ON
+2021,Strathroy-Caradoc M,Farmland,0.0031068,ON
+2021,Strathroy-Caradoc M,Commercial,0.02127619,ON
+2021,Strathroy-Caradoc M,Industrial,0.02781669,ON
+2021,Strong Tp,Residential,0.01000943,ON
+2021,Strong Tp,Farmland,0.00250236,ON
+2021,Strong Tp,Commercial,0.01671785,ON
+2021,Strong Tp,Industrial,0.0195723,ON
+2021,Sundridge V,Residential,0.01711485,ON
+2021,Sundridge V,Commercial,0.02575519,ON
+2021,Sundridge V,Industrial,0.02666565,ON
+2021,Tarbutt Tp,Residential,0.01201485,ON
+2021,Tarbutt Tp,Farmland,0.00300371,ON
+2021,Tarbutt Tp,Commercial,0.02577602,ON
+2021,Tarbutt Tp,Industrial,0.02785412,ON
+2021,Tay Valley Tp,Residential,0.0098075,ON
+2021,Tay Valley Tp,Farmland,0.00245188,ON
+2021,Tay Valley Tp,Commercial,0.02405483,ON
+2021,Tay Valley Tp,Industrial,0.02975561,ON
+2021,Tecumseh T,Residential,0.01387492,ON
+2021,Tecumseh T,Farmland,0.00346873,ON
+2021,Tecumseh T,Commercial,0.02215775,ON
+2021,Tecumseh T,Industrial,0.03278001,ON
+2021,Temagami M,Residential,0.00948632,ON
+2021,Temagami M,Commercial,0.01857702,ON
+2021,Temagami M,Industrial,0.01556267,ON
+2021,Temiskaming Shores C,Residential,0.0130192,ON
+2021,Temiskaming Shores C,Farmland,0.0032548,ON
+2021,Temiskaming Shores C,Commercial,0.0322507,ON
+2021,Temiskaming Shores C,Industrial,0.0356643,ON
+2021,Terrace Bay Tp,Residential,0.02898294,ON
+2021,Terrace Bay Tp,Commercial,0.06041153,ON
+2021,Thames Centre M,Residential,0.01012214,ON
+2021,Thames Centre M,Farmland,0.00253053,ON
+2021,Thames Centre M,Commercial,0.01863714,ON
+2021,Thames Centre M,Industrial,0.02379414,ON
+2021,The Archipelago Tp,Residential,0.00335191,ON
+2021,The Archipelago Tp,Farmland,0.00083798,ON
+2021,The Archipelago Tp,Commercial,0.00832492,ON
+2021,The Archipelago Tp,Industrial,0.00981414,ON
+2021,The Blue Mountains T,Residential,0.0088539,ON
+2021,The Blue Mountains T,Farmland,0.00197911,ON
+2021,The Blue Mountains T,Commercial,0.01829837,ON
+2021,The Blue Mountains T,Industrial,0.02221006,ON
+2021,The Nation M,Residential,0.01284462,ON
+2021,The Nation M,Farmland,0.00321115,ON
+2021,The Nation M,Commercial,0.02510435,ON
+2021,The Nation M,Industrial,0.03648564,ON
+2021,The North Shore Tp,Residential,0.01383933,ON
+2021,The North Shore Tp,Commercial,0.02234026,ON
+2021,The North Shore Tp,Industrial,0.02234026,ON
+2021,The South Bruce Peninsula T,Residential,0.0113076,ON
+2021,The South Bruce Peninsula T,Farmland,0.0028269,ON
+2021,The South Bruce Peninsula T,Commercial,0.02085676,ON
+2021,The South Bruce Peninsula T,Industrial,0.02588832,ON
+2021,Thessalon T,Residential,0.01801263,ON
+2021,Thessalon T,Farmland,0.00450316,ON
+2021,Thessalon T,Commercial,0.03077629,ON
+2021,Thessalon T,Industrial,0.02811483,ON
+2021,Thornloe V,Residential,0.0157143,ON
+2021,Thornloe V,Farmland,0.00392858,ON
+2021,Thornloe V,Commercial,0.0229843,ON
+2021,Thorold C,Residential,0.01347345,ON
+2021,Thorold C,Farmland,0.00336837,ON
+2021,Thorold C,Commercial,0.02952069,ON
+2021,Thorold C,Industrial,0.04021128,ON
+2021,Thunder Bay C,Residential,0.01430627,ON
+2021,Thunder Bay C,Farmland,0.00357657,ON
+2021,Thunder Bay C,Commercial,0.03488962,ON
+2021,Thunder Bay C,Industrial,0.03909044,ON
+2021,Tillsonburg T,Residential,0.01308715,ON
+2021,Tillsonburg T,Farmland,0.00289849,ON
+2021,Tillsonburg T,Commercial,0.03077939,ON
+2021,Tillsonburg T,Industrial,0.0391953,ON
+2021,Timmins C,Residential,0.01853053,ON
+2021,Timmins C,Farmland,0.00463264,ON
+2021,Timmins C,Commercial,0.04285192,ON
+2021,Timmins C,Industrial,0.05130133,ON
+2021,Tiny Tp,Residential,0.00739434,ON
+2021,Tiny Tp,Farmland,0.00184859,ON
+2021,Tiny Tp,Commercial,0.01596798,ON
+2021,Tiny Tp,Industrial,0.01579323,ON
+2021,Toronto C,Residential,0.00604291,ON
+2021,Toronto C,Farmland,0.00151072,ON
+2021,Toronto C,Commercial,0.01949098,ON
+2021,Toronto C,Commercial,0.02093789,ON
+2021,Toronto C,Industrial,0.02059468,ON
+2021,Trent Hills M,Residential,0.01423631,ON
+2021,Trent Hills M,Farmland,0.00355907,ON
+2021,Trent Hills M,Commercial,0.02785946,ON
+2021,Trent Hills M,Industrial,0.03548324,ON
+2021,Trent Lakes M,Residential,0.00877587,ON
+2021,Trent Lakes M,Farmland,0.00219397,ON
+2021,Trent Lakes M,Commercial,0.01676031,ON
+2021,Trent Lakes M,Industrial,0.01998182,ON
+2021,Tudor and Cashel Tp,Residential,0.01216819,ON
+2021,Tudor and Cashel Tp,Farmland,0.0030418,ON
+2021,Tudor and Cashel Tp,Commercial,0.02050251,ON
+2021,Tudor and Cashel Tp,Industrial,0.02081233,ON
+2021,Tweed M,Residential,0.0112163,ON
+2021,Tweed M,Farmland,0.00280408,ON
+2021,Tweed M,Commercial,0.01945493,ON
+2021,Tweed M,Industrial,0.01973777,ON
+2021,Tyendinaga Tp,Residential,0.01181619,ON
+2021,Tyendinaga Tp,Farmland,0.0029538,ON
+2021,Tyendinaga Tp,Commercial,0.02011451,ON
+2021,Tyendinaga Tp,Industrial,0.02041533,ON
+2021,Uxbridge Tp,Residential,0.0103631,ON
+2021,Uxbridge Tp,Farmland,0.00214912,ON
+2021,Uxbridge Tp,Commercial,0.02160798,ON
+2021,Uxbridge Tp,Industrial,0.02667377,ON
+2021,Val Rita-Harty Tp,Residential,0.02435567,ON
+2021,Val Rita-Harty Tp,Farmland,0.00608892,ON
+2021,Val Rita-Harty Tp,Commercial,0.03243371,ON
+2021,Val Rita-Harty Tp,Industrial,0.03616342,ON
+2021,Vaughan C,Residential,0.00669977,ON
+2021,Vaughan C,Farmland,0.00167494,ON
+2021,Vaughan C,Commercial,0.01568665,ON
+2021,Vaughan C,Industrial,0.01729497,ON
+2021,Wainfleet Tp,Residential,0.01416388,ON
+2021,Wainfleet Tp,Farmland,0.00354097,ON
+2021,Wainfleet Tp,Commercial,0.03071852,ON
+2021,Wainfleet Tp,Industrial,0.04202711,ON
+2021,Warwick Tp,Residential,0.01056515,ON
+2021,Warwick Tp,Farmland,0.00242444,ON
+2021,Warwick Tp,Commercial,0.0235011,ON
+2021,Warwick Tp,Industrial,0.02730011,ON
+2021,Wasaga Beach T,Residential,0.01003426,ON
+2021,Wasaga Beach T,Farmland,0.00250857,ON
+2021,Wasaga Beach T,Commercial,0.01919476,ON
+2021,Waterloo C,Residential,0.00951468,ON
+2021,Waterloo C,Farmland,0.00237867,ON
+2021,Waterloo C,Commercial,0.02437013,ON
+2021,Waterloo C,Industrial,0.02437013,ON
+2021,Waterloo R,Residential,0.00462571,ON
+2021,Waterloo R,Farmland,0.00115643,ON
+2021,Waterloo R,Commercial,0.00902014,ON
+2021,Waterloo R,Industrial,0.00902014,ON
+2021,Wawa M,Residential,0.02728319,ON
+2021,Wawa M,Farmland,0.0068208,ON
+2021,Wawa M,Commercial,0.05110339,ON
+2021,Wawa M,Commercial,0.05791719,ON
+2021,Wawa M,Commercial,0.06813786,ON
+2021,Wawa M,Industrial,0.05389126,ON
+2021,Welland C,Residential,0.01546754,ON
+2021,Welland C,Farmland,0.00386689,ON
+2021,Welland C,Commercial,0.03298023,ON
+2021,Welland C,Industrial,0.04545572,ON
+2021,Wellesley Tp,Residential,0.00933605,ON
+2021,Wellesley Tp,Farmland,0.00233401,ON
+2021,Wellesley Tp,Commercial,0.02402179,ON
+2021,Wellesley Tp,Industrial,0.02402179,ON
+2021,Wellington Co,Residential,0.00621997,ON
+2021,Wellington Co,Farmland,0.00155499,ON
+2021,Wellington Co,Commercial,0.00927397,ON
+2021,Wellington Co,Industrial,0.01492792,ON
+2021,Wellington North Tp,Residential,0.01239339,ON
+2021,Wellington North Tp,Farmland,0.00309834,ON
+2021,Wellington North Tp,Commercial,0.02499731,ON
+2021,Wellington North Tp,Industrial,0.03487212,ON
+2021,West Elgin M,Residential,0.01378907,ON
+2021,West Elgin M,Farmland,0.00320209,ON
+2021,West Elgin M,Commercial,0.02887545,ON
+2021,West Elgin M,Industrial,0.03607765,ON
+2021,West Grey M,Residential,0.01164422,ON
+2021,West Grey M,Farmland,0.0025874,ON
+2021,West Grey M,Commercial,0.02191713,ON
+2021,West Grey M,Industrial,0.02731914,ON
+2021,West Lincoln Tp,Residential,0.01156137,ON
+2021,West Lincoln Tp,Farmland,0.00289035,ON
+2021,West Lincoln Tp,Commercial,0.02620343,ON
+2021,West Lincoln Tp,Industrial,0.03518251,ON
+2021,West Nipissing M,Residential,0.01248267,ON
+2021,West Nipissing M,Farmland,0.00312067,ON
+2021,West Nipissing M,Commercial,0.02851175,ON
+2021,West Nipissing M,Industrial,0.02483599,ON
+2021,West Perth M,Residential,0.00983639,ON
+2021,West Perth M,Farmland,0.0024591,ON
+2021,West Perth M,Commercial,0.01915723,ON
+2021,West Perth M,Industrial,0.02515695,ON
+2021,Westport V,Residential,0.01446238,ON
+2021,Westport V,Farmland,0.0036156,ON
+2021,Westport V,Commercial,0.02621216,ON
+2021,Whitby T,Residential,0.01039867,ON
+2021,Whitby T,Farmland,0.00215624,ON
+2021,Whitby T,Commercial,0.02165956,ON
+2021,Whitby T,Industrial,0.02674575,ON
+2021,Whitchurch - Stouffville T,Residential,0.00733786,ON
+2021,Whitchurch - Stouffville T,Farmland,0.00183446,ON
+2021,Whitchurch - Stouffville T,Commercial,0.01653665,ON
+2021,Whitchurch - Stouffville T,Industrial,0.01834348,ON
+2021,White River Tp,Residential,0.03357663,ON
+2021,White River Tp,Commercial,0.06816154,ON
+2021,White River Tp,Industrial,0.08386917,ON
+2021,Whitestone M,Residential,0.00633533,ON
+2021,Whitestone M,Farmland,0.00158383,ON
+2021,Whitestone M,Commercial,0.0106691,ON
+2021,Whitestone M,Industrial,0.01360533,ON
+2021,Whitewater Region Tp,Residential,0.01178782,ON
+2021,Whitewater Region Tp,Farmland,0.00294695,ON
+2021,Whitewater Region Tp,Commercial,0.02741487,ON
+2021,Whitewater Region Tp,Industrial,0.03745406,ON
+2021,Wilmot Tp,Residential,0.00864858,ON
+2021,Wilmot Tp,Farmland,0.00216215,ON
+2021,Wilmot Tp,Commercial,0.02268124,ON
+2021,Wilmot Tp,Industrial,0.02268124,ON
+2021,Windsor C,Residential,0.01818668,ON
+2021,Windsor C,Farmland,0.00454667,ON
+2021,Windsor C,Commercial,0.04234645,ON
+2021,Windsor C,Industrial,0.04737319,ON
+2021,Wollaston Tp,Residential,0.01294618,ON
+2021,Wollaston Tp,Farmland,0.00323655,ON
+2021,Wollaston Tp,Commercial,0.0213578,ON
+2021,Wollaston Tp,Industrial,0.02169115,ON
+2021,Woodstock C,Residential,0.01496762,ON
+2021,Woodstock C,Farmland,0.00330787,ON
+2021,Woodstock C,Commercial,0.03435567,ON
+2021,Woodstock C,Industrial,0.04414094,ON
+2021,Woolwich Tp,Residential,0.00841256,ON
+2021,Woolwich Tp,Farmland,0.00210314,ON
+2021,Woolwich Tp,Commercial,0.022221,ON
+2021,Woolwich Tp,Industrial,0.022221,ON
+2021,York R,Residential,0.00326425,ON
+2021,York R,Farmland,0.00081606,ON
+2021,York R,Commercial,0.00434831,ON
+2021,York R,Industrial,0.00536382,ON
+2021,Zorra Tp,Residential,0.01043176,ON
+2021,Zorra Tp,Farmland,0.00232041,ON
+2021,Zorra Tp,Commercial,0.02572938,ON
+2021,Zorra Tp,Industrial,0.03221164,ON
