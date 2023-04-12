@@ -9,8 +9,10 @@ It then downloads any excel spreadsheet that are not included in the project dat
 
 import requests
 from bs4 import BeautifulSoup as bs
+from datetime import datetime
 import pandas as pd
 import os
+import sys
 from zipfile import ZipFile as zfile
 
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0','Accept': '*/*', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
@@ -20,8 +22,14 @@ BC_url = 'https://www2.gov.bc.ca/gov/content/governments/local-governments/facts
 AB_url = 'https://open.alberta.ca/opendata/municipal-financial-and-statistical-data'
 
 
-
-ON_soup = bs(requests.get(ON_url, headers).content, 'html.parser')
+# Need to create single Connection function and cleanup code
+try:
+    ON_soup = bs(requests.get(ON_url, headers).content, 'html.parser')
+except requests.exceptions.ConnectionError:
+    with open('ErrorLog.txt', 'a+') as f:
+        f.write(f'\nNewEgg ConnectionError on {datetime.now()}')
+        f.close()
+    sys.exit('ON data not available')
 
 on_files = ON_soup.find_all('a', {'class':'download-wrap'})
 
@@ -33,12 +41,13 @@ for file in on_files:
         key = file.attrs.get('href')[-18:-4]
         val = file.attrs.get('href')
         on_ptax_data[key] = val
+        
 
 os.chdir('data/ON_Ptax/')
 files=os.listdir()
 
 download = []
-# There is a problem here that needs to be fixed
+
 for key in on_ptax_data:
     if key +'.xlsx' not in files:
         download.append(on_ptax_data[key])
@@ -55,7 +64,15 @@ for url in download:
     with zfile(file_name, 'r')as zObj:
         zObj.extractall()
 
-bc_soup = bs(requests.get(BC_url, headers=headers).content, 'html.parser')
+try:
+    bc_soup = bs(requests.get(BC_url, headers=headers).content, 'html.parser')
+except requests.exceptions.ConnectionError:
+    with open('ErrorLog.txt', 'a+') as f:
+        f.write(f'\nConnectionError on {datetime.now()}')
+        f.close
+    sys.exit('BC data unavailable')
+
+    
 bc_files = bc_soup.find('div', {'id':'c86ca455b2188dbf9b8a5a1b045ded28'}).find_all('a')
 bc_ptax_data={}
 for file in bc_files:
@@ -85,7 +102,14 @@ for url in download:
         f.write(response.content)
 
 
-AB_soup = bs(requests.get(AB_url, headers=headers).content, 'html.parser')
+try:
+    AB_soup = bs(requests.get(AB_url, headers=headers).content, 'html.parser')
+except requests.exceptions.ConnectionError:
+    with open('ErrorLog.txt', 'a+') as f:
+        f.write(f'\nNewEgg ConnectionError on {datetime.now()}')
+        f.close()
+    sys.exit('AB data unvailable')
+
 ab_files = AB_soup.find_all('a', {'class':'heading'})
 
 ab_ptax_data={}
