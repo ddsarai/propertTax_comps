@@ -14,22 +14,38 @@ import pandas as pd
 import os
 import sys
 from zipfile import ZipFile as zfile
+def checkConnect(url):
+    try:
+        soup = bs(requests.get(url, headers=headers).content, 'html.parser')
+        return soup
+    except requests.exceptions.ConnectionError:
+        if 'alberta' in url:
+            with open('ErrorLog.txt', 'a+') as f:
+                f.write(f'\nConnectionError AB data on {datetime.now()}')
+                f.close()
+            sys.exit('AB data not available')
+        elif 'bc' in url:
+            with open('ErrorLog.txt', 'a+') as f:
+                f.write(f'\nConnectionError BC data on {datetime.now()}')
+                f.close()
+            sys.exit('BC data not available')
+        else:
+            with open('ErrorLog.txt', 'a+') as f:
+                f.write(f'\nConnectionError ON data on {datetime.now()}')
+                f.close()
+            sys.exit('ON data not available')
+
+# def dload_list(data):
+#     #finish dload function
+#     if key +'.xlsx' not in files:
 
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0','Accept': '*/*', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
 
-ON_url = 'https://efis.fma.csc.gov.on.ca/fir/index.php/en/open-data/fir-by-schedule-and-year/'
+ON_url = 'https://efis.fma.csc.gov.on.ca/fir/index.php/en/open-data/fir-by-schedule-and-year/' 
 BC_url = 'https://www2.gov.bc.ca/gov/content/governments/local-governments/facts-framework/statistics/tax-rates-tax-burden'
 AB_url = 'https://open.alberta.ca/opendata/municipal-financial-and-statistical-data'
 
-
-# Need to create single Connection function and cleanup code
-try:
-    ON_soup = bs(requests.get(ON_url, headers).content, 'html.parser')
-except requests.exceptions.ConnectionError:
-    with open('ErrorLog.txt', 'a+') as f:
-        f.write(f'\nNewEgg ConnectionError on {datetime.now()}')
-        f.close()
-    sys.exit('ON data not available')
+ON_soup = checkConnect(ON_url)
 
 on_files = ON_soup.find_all('a', {'class':'download-wrap'})
 
@@ -64,15 +80,9 @@ for url in download:
     with zfile(file_name, 'r')as zObj:
         zObj.extractall()
 
-try:
-    bc_soup = bs(requests.get(BC_url, headers=headers).content, 'html.parser')
-except requests.exceptions.ConnectionError:
-    with open('ErrorLog.txt', 'a+') as f:
-        f.write(f'\nConnectionError on {datetime.now()}')
-        f.close
-    sys.exit('BC data unavailable')
 
-    
+bc_soup = checkConnect(BC_url)
+
 bc_files = bc_soup.find('div', {'id':'c86ca455b2188dbf9b8a5a1b045ded28'}).find_all('a')
 bc_ptax_data={}
 for file in bc_files:
@@ -101,16 +111,10 @@ for url in download:
     with open(file_name, 'wb') as f:
         f.write(response.content)
 
-
-try:
-    AB_soup = bs(requests.get(AB_url, headers=headers).content, 'html.parser')
-except requests.exceptions.ConnectionError:
-    with open('ErrorLog.txt', 'a+') as f:
-        f.write(f'\nNewEgg ConnectionError on {datetime.now()}')
-        f.close()
-    sys.exit('AB data unvailable')
+AB_soup = checkConnect(AB_url)
 
 ab_files = AB_soup.find_all('a', {'class':'heading'})
+
 
 ab_ptax_data={}
 for file in ab_files:
